@@ -47,7 +47,6 @@ bool check(int n, int k, int len, ii &res){
         num_valid -= min(val[num], pos_i[num] - pos_j[num]);
         if(pos_i[num]+1 < G[num].size() && G[num][pos_i[num]+1] <= i)
             pos_i[num]++;
-        //cout << i << ' ' << val[num] << ' ' << pos_i[num] << ' ' << pos_j[num] << '\n';
         num_valid += min(val[num], pos_i[num] - pos_j[num]);
         //cout << num_valid << '\n';
         if(i >= len){
@@ -57,12 +56,8 @@ bool check(int n, int k, int len, ii &res){
                 num_valid -= min(val[num], pos_i[num] - pos_j[num]);
                 if(pos_j[num]+1 < G[num].size() && G[num][pos_j[num]+1] <= j)
                     pos_j[num]++;
-                //cout << num_valid << '\n';
                 num_valid += min(val[num], pos_i[num] - pos_j[num]);
-                //cout << num_valid << ' ' << pos_i[num] - pos_j[num] << '\n';
-                //cout << num_valid << '\n';
             }
-            //cout << i << ' ' << num_valid << '\n';
             if(num_valid + k >= len){
                 res = {j+1, i};
                 return true;
@@ -70,21 +65,6 @@ bool check(int n, int k, int len, ii &res){
         }
     }
     return false;
-//    FOR(i, len, n){
-//        int j = i - len;
-//        int num_valid = 0;
-//        FOR(num, 1, cnt_comp){
-//            while(pos_i[num]+1 < G[num].size() && G[num][pos_i[num]+1] <= i)
-//                pos_i[num]++;
-//            while(pos_j[num]+1 < G[num].size() && G[num][pos_j[num]+1] <= j)
-//                pos_j[num]++;
-//            //cout << num << ' ' << val[num] << ' ' << pos_i[num] << ' ' << pos_j[num] << '\n';
-//            num_valid += min(val[num], pos_i[num] - pos_j[num]);
-//        }
-//        cout << num_valid  << '\n';
-//
-//    }
-//    return false;
 }
 
 int main(){
@@ -107,12 +87,9 @@ int main(){
             DFS(i);
         }
     FOR(i, 1, n){
-        //cout << i << ' ' << comp[i] << ' ' << val[i] << '\n';
         G[comp[i]].pb(i);
     }
     ii res;
-//    cout << check(n, k, 4, res);
-//    return 0;
     int l = 1, r = n;
     while(l <= r){
         int mid = (l+r) >> 1;
