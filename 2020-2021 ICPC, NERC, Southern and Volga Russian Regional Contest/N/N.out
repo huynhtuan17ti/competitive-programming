@@ -1,7 +1,0 @@
-YES
-YES
-NO
-YES
-YES
-NO
-YES
