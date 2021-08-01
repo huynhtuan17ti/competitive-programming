@@ -5,6 +5,6 @@ Call $dp[i][j]$ as the number of ways which can divide the array into $j$ parts.
 
 With $j \leq 55$, the answer is $\sum_{j=0}^{55} dp[n][j]$.  
 
-Now consider with $j > 55$, define $cnt[i]$ is the number of index $j >= i$ that $sum[j] = sum[i]$. Now the answer is $\sum_{i=1}^n dp[i][55]*2^{cnt[i]-1}$  
+Now consider with $j > 55$, define $cnt[i]$ is the number of index $j >= i$ that $sum[j] = sum[i]$. Now the answer is $\sum_{i=1}^n dp[i][55]*2^{cnt[i]-1}$ where $sum[i] = sum[n]$.
 
 Add two above results together, it's the answer of the problem.
