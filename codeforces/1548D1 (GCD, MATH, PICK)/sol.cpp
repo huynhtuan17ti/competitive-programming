@@ -27,6 +27,7 @@ ll nCk(int n, int k){
         return 1LL*n*(n-1)/2;
     if(k == 3)
         return 1LL*n*(n-1)*(n-2)/6;
+    return 0;
 }
 
 ll numWay(ii a, ii b, ii c){
