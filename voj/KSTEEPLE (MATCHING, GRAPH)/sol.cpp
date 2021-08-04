@@ -1,5 +1,5 @@
 /*
-    http://www.usaco.org/current/data/sol_steeple.html
+    http://www.usaco.org/current/arr/sol_steeple.html
 */
 
 #include <bits/stdc++.h>  
