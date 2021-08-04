@@ -6,14 +6,14 @@ using namespace std;
 
 class BIT{
     private:
-        ll data[MAXN];
+        ll arr[MAXN];
     public:
         void init(){
-            fill(data, data+1+limit, 0);
+            fill(arr, arr+1+limit, 0);
         }
         void update(int id, ll val){
             while(id <= limit){
-                data[id] += val;
+                arr[id] += val;
                 id += id&(-id);
             }
         }
@@ -24,7 +24,7 @@ class BIT{
         ll get(int id){
             ll ans = 0;
             while(id >= 1){
-                ans += data[id];
+                ans += arr[id];
                 id -= id&(-id);
             }
             return ans;
