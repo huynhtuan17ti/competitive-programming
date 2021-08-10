@@ -8,6 +8,7 @@ class SparseTable{
     vector <vector <T>> ans;
     public:
         SparseTable(const vector <T>& a, const F& f) : func(f){
+            this->n = (int)a.size();
             int sz = trunc(log2(n)) + 1;
             ans.resize(n);
             for(int i = 0; i < n; i++){
