@@ -131,8 +131,8 @@ int main(){
         if(type == 'S'){
             int x; cin >> x;
             int idx = bit.findIndex(x);
-            bit.update(idx+1, 1);
-            it.update(1, 1, n, idx, -1);
+            bit.update(idx, 1);
+            it.update(1, 1, n, idx+1, -1); //must be idx+1
         }
         if(type == 'Q'){
             int x, y;
