@@ -15,7 +15,6 @@ class FenwickTree{
         void update(int id, T val) {
             while (id <= n) {
                 fenw[id] += val;
-                fenw[id] %= MOD;
                 id += id&(-id);
             }
         }
@@ -24,7 +23,6 @@ class FenwickTree{
             T ans{};
             while(id >= 1){
                 ans += fenw[id];
-                ans %= MOD;
                 id -= id&(-id); 
             }
             return ans;
