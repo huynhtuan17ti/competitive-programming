@@ -48,7 +48,6 @@ int Lucas(ll n, ll k){
     do{
         kr = k%MOD;
         nr = n%MOD;
-        cout << kr << ' ' << nr << ' ' << nCk(nr, kr) << '\n';
         res = 1LL*res*nCk(nr, kr)%MOD;
         n /= MOD;
         k /= MOD;
