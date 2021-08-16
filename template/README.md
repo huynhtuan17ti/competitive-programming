@@ -4,9 +4,9 @@
 | ----------- | ----------- |------------ |
 | [FenwickTree](FenwickTree.h) | [INCVN](https://oj.vnoi.info/problem/incvn) | [incvn.cpp](../voj/INCVN/sol.cpp) |
 | [SparseTable](SparseTable.h) | [RMQSQ](https://www.spoj.com/problems/RMQSQ/) | [rmqsq.cpp](../spoj/RMQSQ/sol.cpp) |
-| [LazySegmentTree](LazySegmentTree.h) | [1555E](https://codeforces.com/contest/1555/problem/E) | [1555E.cpp](../codeforces/1555E%20(IT%20TREE,%20TWO%20POINTERS)/sol.cpp) |
+| [LazySegmentTree](LazySegmentTree.h) | [1555E](https://codeforces.com/contest/1555/problem/E) | [1555E.cpp](../codeforces/1555E/sol.cpp) |
 | [ConvexHull](ConvexHull.h) | [MTRIAREA](https://oj.vnoi.info/problem/mtriarea) | [mtriarea.cpp](../voj/MTRIAREA/sol.cpp) |
-| [DSU](DSU.h) | [1559D1](https://codeforces.com/contest/1559/problem/D1) | [1559D1.cpp](../codeforces/1559D1%20(DSU,%20GRAPH)/sol.cpp) |
+| [DSU](DSU.h) | [1559D1](https://codeforces.com/contest/1559/problem/D1) | [1559D1.cpp](../codeforces/1559D1/sol.cpp) |
 
 
 ## Code checking
