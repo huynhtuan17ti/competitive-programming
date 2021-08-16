@@ -16,3 +16,4 @@
 | [LIS2VN](LIS2VN)                      | `Fenwick Tree`, `Fake update trick` |
 | [MRECT1](MRECT1)                      | `Binary search` |
 | [MTRIAREA](MTRIAREA)                  | `Geometry`, `Convex Hull`, `Two pointers` |
+| [VO19DANANG](VO19DANANG)              | `Dijktra`, `Graph` |
