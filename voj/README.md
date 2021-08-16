@@ -17,3 +17,4 @@
 | [MRECT1](MRECT1)                      | `Binary search` |
 | [MTRIAREA](MTRIAREA)                  | `Geometry`, `Convex Hull`, `Two pointers` |
 | [VO19DANANG](VO19DANANG)              | `Dijktra`, `Graph` |
+| [MSKYCODE](MSKYCODE)                  | `Math`, `Backtracking`, `Seive`, `Inclusive-Exclusive` |
