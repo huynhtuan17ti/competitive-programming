@@ -21,3 +21,4 @@
 | [1559D1](1559D1)                      | `DSU`, `Graph` |
 | [300C](300C)                          | `Math`, `Combinatorics` |
 | [920G](920G)                          | `Math`, `Binary search`, `Seive` |
+| [559C](559C)                          | `Math`, `Dp`, `Inclusive-Exclusive`, `Combinatorics` |
