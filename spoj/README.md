@@ -6,3 +6,5 @@
 | [PON](PON)                            | `Math`, `Prime` |
 | [RMQ](RMQSQ)                          | `Sparse Table` |
 | [SBO](SBO)                            | `Heap`, `Segment Tree` |
+| [FREQUENT](FREQUENT)                  | `Mo queries` |
+| [FREQ2](FREQ2)                        | `Mo queries` |
