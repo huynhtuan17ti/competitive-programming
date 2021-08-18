@@ -138,7 +138,7 @@ void update(int &L, int &R, int qL, int qR){
 vector <int> MoQueries(int n, vector <query> Q){
     block_size = sqrt((int)nodes.size());
     sort(Q.begin(), Q.end(), [](const query &A, const query &B){
-        return (ST[A.l]/block_size != ST[B.l]/block_size)? (ST[A.l]/block_size < ST[B.l]/block_size) : (A.r < B.r);
+        return (ST[A.l]/block_size != ST[B.l]/block_size)? (ST[A.l]/block_size < ST[B.l]/block_size) : (ST[A.r] < ST[B.r]);
     });
     vector <int> res;
     res.resize((int)Q.size());
