@@ -22,3 +22,4 @@
 | [300C](300C)                          | `Math`, `Combinatorics` |
 | [920G](920G)                          | `Math`, `Binary search`, `Seive` |
 | [559C](559C)                          | `Math`, `Dp`, `Inclusive-Exclusive`, `Combinatorics` |
+| [100962F](100962F)                    | `Mo algorithm`, `Mo on tree`, `LCA`, `Graph`, `Sqrt decompostion` |
