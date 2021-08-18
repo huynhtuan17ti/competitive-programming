@@ -8,6 +8,7 @@
 | [ConvexHull](ConvexHull.h) | [MTRIAREA](https://oj.vnoi.info/problem/mtriarea) | [mtriarea.cpp](../voj/MTRIAREA/sol.cpp) |
 | [DSU](DSU.h) | [1559D1](https://codeforces.com/contest/1559/problem/D1) | [1559D1.cpp](../codeforces/1559D1/sol.cpp) |
 | [SieveOfEratosthenes](SieveOfEratosthenes.h) | None | None |
+| [MoQueries](MoQueries.h) | [FREQ2](https://www.spoj.com/problems/FREQ2/) | [freq.cpp](../spoj/FREQ2/sol.cpp) |
 
 
 ## Code checking
