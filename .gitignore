@@ -1,5 +1,7 @@
 *.exe
 *.inp
+*.in
+*.out
 *.ans
 *.out
 *.o
