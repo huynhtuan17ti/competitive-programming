@@ -23,3 +23,4 @@
 | [920G](920G)                          | `Math`, `Binary search`, `Seive` |
 | [559C](559C)                          | `Math`, `Dp`, `Inclusive-Exclusive`, `Combinatorics` |
 | [100962F](100962F)                    | `Mo algorithm`, `Mo on tree`, `LCA`, `Graph`, `Sqrt decompostion` |
+| [100551A](100551A)                    | `DSU`, `Segment Tree`, `Delete query on DSU` |
