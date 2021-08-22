@@ -5,7 +5,7 @@ Link open problems: [kattis](https://open.kattis.com/problem-sources/The%202020%
 | Problem                           | Tag               |
 | ---------                         | ------            |
 | [Battle of Hogwarts](B/sol.cpp)   | `BFS`, `Graph`    |
-| [Dividing Kingdom](D/sol.cpp)     | `DFS`, `Diamter of Tree`, `Graph` |
+| [Dividing Kingdom](D/sol.cpp)     | `DFS`, `Diameter of Tree`, `Graph` |
 | [Infinite 2D Array](I/sol.cpp)    | `Math`, `Combinatorics` |
 | [Just Enough Water](J/sol.cpp)    | `Backtracking`    |
 | [Kingdom of Cats](K/sol.cpp)      | `Geometry`        |
