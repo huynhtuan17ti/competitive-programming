@@ -9,3 +9,4 @@ Link open problems: [kattis](https://open.kattis.com/problem-sources/The%202020%
 | [Infinite 2D Array](I/sol.cpp)    | `Math`, `Combinatorics` |
 | [Just Enough Water](J/sol.cpp)    | `Backtracking`    |
 | [Kingdom of Cats](K/sol.cpp)      | `Geometry`        |
+| [Greatest Pair](G/sol.cpp)        | `Graph`, `LCA`, `Diameter of Tree` |
