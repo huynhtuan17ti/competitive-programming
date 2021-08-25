@@ -24,3 +24,5 @@
 | [559C](559C)                          | `Math`, `Dp`, `Inclusive-Exclusive`, `Combinatorics` |
 | [100962F](100962F)                    | `Mo algorithm`, `Mo on tree`, `LCA`, `Graph`, `Sqrt decompostion` |
 | [100551A](100551A)                    | `DSU`, `Segment Tree`, `Delete query on DSU` |
+| [1560F2](1560F2)                      | `Backtracking` |
+| [1558B](1558B)                        | `Dp`, `Prefix sum` |
