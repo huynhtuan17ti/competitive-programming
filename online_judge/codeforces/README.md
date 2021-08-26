@@ -26,3 +26,4 @@
 | [100551A](100551A)                    | `DSU`, `Segment Tree`, `Delete query on DSU` |
 | [1560F2](1560F2)                      | `Backtracking` |
 | [1558B](1558B)                        | `Dp`, `Prefix sum` |
+| [1558C](1558C)                        | `Constructive` |
