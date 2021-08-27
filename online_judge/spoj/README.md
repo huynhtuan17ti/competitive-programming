@@ -9,3 +9,4 @@
 | [FREQUENT](FREQUENT)                  | `Mo queries` |
 | [FREQ2](FREQ2)                        | `Mo queries` |
 | [COT2](COT2)                          | `Mo queries`, `Tree`, `Graph`, `LCA` |
+| [METEORS](METEORS)                    | `Fenwick Tree`, `Parallel Binary search` |
