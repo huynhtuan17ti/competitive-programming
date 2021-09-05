@@ -27,3 +27,4 @@
 | [1560F2](1560F2)                      | `Backtracking` |
 | [1558B](1558B)                        | `Dp`, `Prefix sum` |
 | [1558C](1558C)                        | `Constructive` |
+| [713C](713C)                          | `Dp`, `Slope Trick` |
