@@ -28,3 +28,5 @@
 | [1558B](1558B)                        | `Dp`, `Prefix sum` |
 | [1558C](1558C)                        | `Constructive` |
 | [713C](713C)                          | `Dp`, `Slope Trick` |
+| [1567D](1567D)                        | `Greedy`, `Math` |
+| [1567E](1567E)                        | `Segment Tree` |
