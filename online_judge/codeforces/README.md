@@ -30,3 +30,4 @@
 | [713C](713C)                          | `Dp`, `Slope Trick` |
 | [1567D](1567D)                        | `Greedy`, `Math` |
 | [1567E](1567E)                        | `Segment Tree` |
+| [1556E](1556E)                        | `Segment Tree`, `Sparse Table`, `Prefix Sum` |
