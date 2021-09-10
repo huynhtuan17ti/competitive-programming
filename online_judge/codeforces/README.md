@@ -31,3 +31,4 @@
 | [1567D](1567D)                        | `Greedy`, `Math` |
 | [1567E](1567E)                        | `Segment Tree` |
 | [1556E](1556E)                        | `Segment Tree`, `Sparse Table`, `Prefix Sum` |
+| [222E](222E)                          | `Matrix Multiplication`, `Dp` |
