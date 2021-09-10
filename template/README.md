@@ -10,6 +10,7 @@
 | [SieveOfEratosthenes](SieveOfEratosthenes.h) | None | None |
 | [MoQueries](MoQueries.h) | [FREQ2](https://www.spoj.com/problems/FREQ2/) | [freq.cpp](../online_judge/spoj/FREQ2/sol.cpp) |
 | [LCA](LCA.h)  | None  | None |
+| [MatrixMuliplication](MatrixMulti.h) | [222E](https://codeforces.com/problemset/problem/222/E) | [222E.cpp](../online_judge/codeforces/222E/sol.cpp) |
 
 
 ## Code checking
