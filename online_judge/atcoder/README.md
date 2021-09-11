@@ -8,3 +8,4 @@
 | [abc214_e](abc214_e)                  | `Heap`, `Greedy` |
 | [abc214_f](abc214_f)                  | `String`, `Dp` |
 | [abc217_f](abc217_f)                  | `Dp range`, `Combinatorics` |
+| [abc218_f](abc218_f)                  | `BFS`, `Graph` |
