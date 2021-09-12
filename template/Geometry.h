@@ -60,7 +60,7 @@ struct Line{
 
     Line(double a, double b, double c): a(a), b(b), c(c) {}
 
-    Line(Point A, Point B, Point C): A(A), B(B) {
+    Line(Point A, Point B): A(A), B(B) {
         a = B.y - A.y;
         b = A.x - B.x;
         c = -(a * A.x + b * A.y);
