@@ -33,3 +33,4 @@
 | [1556E](1556E)                        | `Segment Tree`, `Sparse Table`, `Prefix Sum` |
 | [222E](222E)                          | `Matrix Multiplication`, `Dp` |
 | [1032D](1032D)                        | `Basic Geometry` |
+| [1566E](1566E)                        | `DFS`, `Tree`, `Graph`, `Dp` |
