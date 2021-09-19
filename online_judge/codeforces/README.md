@@ -36,3 +36,4 @@
 | [1566E](1566E)                        | `DFS`, `Tree`, `Graph`, `Dp` |
 | [1163C2](1163C2)                      | `Geometry` |
 | [56D](56D)                            | `Dp` |
+| [1573D](1573D)                        | `Constructive` |
