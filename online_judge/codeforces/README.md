@@ -37,3 +37,5 @@
 | [1163C2](1163C2)                      | `Geometry` |
 | [56D](56D)                            | `Dp` |
 | [1573D](1573D)                        | `Constructive` |
+| [1562D1](1562D1)                      | `Prefix sum`, `Suffix sum` |
+| [1562D2](1562D2)                      | `Prefix sum`, `Suffix sum`, `Binary search` | 
