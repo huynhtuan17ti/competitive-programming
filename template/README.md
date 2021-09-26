@@ -65,4 +65,19 @@ int main()
     return 0;
 }
 ```
+
+## Set memory stack
+```c++
+#include <sys/resource.h>
+
+int main(){
+    rlimit rlim;
+    if (getrlimit(RLIMIT_STACK, &rlim)) return 1;
+    rlim.rlim_cur = rlim.rlim_max;
+    // You can set the fixed value instead of max value, e.g. rlim.rlim_cur = 1024 * 1024 * 1024
+    // will set your stack size to 1 GiB
+    if (setrlimit(RLIMIT_STACK, &rlim)) return 2;
+}
+```
+
 **Reference**: [vnoi tu code tu suong](https://vnoi.info/wiki/algo/skill/viet-trinh-cham.md)
