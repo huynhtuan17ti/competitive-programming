@@ -39,3 +39,4 @@
 | [1573D](1573D)                        | `Constructive` |
 | [1562D1](1562D1)                      | `Prefix sum`, `Suffix sum` |
 | [1562D2](1562D2)                      | `Prefix sum`, `Suffix sum`, `Binary search` | 
+| [1547D](1547D)                        | `Priority queue`, `DFS`, `Greedy` |
