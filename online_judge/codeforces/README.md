@@ -40,3 +40,5 @@
 | [1562D1](1562D1)                      | `Prefix sum`, `Suffix sum` |
 | [1562D2](1562D2)                      | `Prefix sum`, `Suffix sum`, `Binary search` | 
 | [1547D](1547D)                        | `Priority queue`, `DFS`, `Greedy` |
+| [1592C](1592C)                        | `Bitwise`, `Graph` |
+| [1592D](1592D)                        | `DFS`, `Interactive`, `Binary search` |
