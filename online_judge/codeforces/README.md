@@ -42,3 +42,4 @@
 | [1547D](1547D)                        | `Priority queue`, `DFS`, `Greedy` |
 | [1592C](1592C)                        | `Bitwise`, `Graph` |
 | [1592D](1592D)                        | `DFS`, `Interactive`, `Binary search` |
+| [1594D](1594D)                        | `DFS`, `Graph`, `Bipartite Graph` |
