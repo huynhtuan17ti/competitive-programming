@@ -43,3 +43,5 @@
 | [1592C](1592C)                        | `Bitwise`, `Graph` |
 | [1592D](1592D)                        | `DFS`, `Interactive`, `Binary search` |
 | [1594D](1594D)                        | `DFS`, `Graph`, `Bipartite Graph` |
+| [1598D](1598D)                        | `Math` |
+| [1598E](1598E)                        | `Dp`, `Update` |
