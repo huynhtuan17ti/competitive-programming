@@ -3,3 +3,4 @@
 | -----------                               | ----------- |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
+| [1648 - Dynamic Range Sum Queries](1648)  | `Range Queries`, `Fenwick tree` |
