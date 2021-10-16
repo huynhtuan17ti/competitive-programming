@@ -5,6 +5,7 @@
 | [FenwickTree](FenwickTree.h) | [INCVN](https://oj.vnoi.info/problem/incvn) | [incvn.cpp](../online_judge/voj/INCVN/sol.cpp) |
 | [SparseTable](SparseTable.h) | [RMQSQ](https://www.spoj.com/problems/RMQSQ/) | [rmqsq.cpp](../online_judge/spoj/RMQSQ/sol.cpp) |
 | [LazySegmentTree](LazySegmentTree.h) | [2166](https://cses.fi/problemset/task/2166/) | [2166.cpp](../online_judge/cses/2166/sol.cpp) |
+| [SegmentTree](SegmentTree.h) | [2206](https://cses.fi/problemset/task/2206) | [2206.cpp](../online_judge/cses/2206/sol.cpp) |
 | [ConvexHull](ConvexHull.h) | [MTRIAREA](https://oj.vnoi.info/problem/mtriarea) | [mtriarea.cpp](../online_judge/voj/MTRIAREA/sol.cpp) |
 | [DSU](DSU.h) | [1559D1](https://codeforces.com/contest/1559/problem/D1) | [1559D1.cpp](../online_judge/codeforces/1559D1/sol.cpp) |
 | [SieveOfEratosthenes](SieveOfEratosthenes.h) | None | None |
