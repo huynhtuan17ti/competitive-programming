@@ -1,10 +1,24 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-template <typename T, typename F = function <T(const T&, const T&)>>
+/*
+    https://cses.fi/problemset/task/2166/
+    Problem:
+    Given an array with n elements and q queries.
+    There are 2 type of query:
+    - Query 1: 1 k v
+        Update value at position k to v
+    - Query 2: 2 a b
+        Find maximum prefix sum in subarray from position a to b
+*/
+
+typedef long long ll;
+const int MAXN = 2e5 + 5;
+const ll inf = 1e15;
+ll sum[MAXN];
+
+template <typename T>
 class LazySegmentTree{
-    F func;
-    T blank;
     struct node{
         T val, lazy;
         node(){
@@ -13,10 +27,18 @@ class LazySegmentTree{
     };
     public:
         vector <node> IT;
-        LazySegmentTree(int n, T blank, const F& f){
+        LazySegmentTree(int n){
             IT.resize(4*n+5);
-            this->func = f;
-            this->blank = blank;
+        }
+        void build(int id, int l, int r){
+            if(l == r){
+                IT[id].val = sum[l];
+                return;
+            }
+            int mid = (l+r) >> 1;
+            build(2*id, l, mid);
+            build(2*id+1, mid+1, r);
+            IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
         }
         void push(int id, T val){
             IT[id].val += val;
@@ -24,13 +46,13 @@ class LazySegmentTree{
         }
         void down(int id){
             T k = IT[id].lazy;
-            if(k == blank)
+            if(k == 0)
                 return;
 
             push(2*id, k);
             push(2*id+1, k);
 
-            IT[id].lazy = blank;
+            IT[id].lazy = 0;
         }
         void update(int id, int l, int r, int u, int v, T val){
             if(v < l || r < u)
@@ -43,17 +65,19 @@ class LazySegmentTree{
             int mid = (l+r) >> 1;
             update(2*id, l, mid, u, v, val);
             update(2*id+1, mid+1, r, u, v, val);
-            IT[id].val = func(IT[2*id].val, IT[2*id+1].val);
+            IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
         }
         T get(int id, int l, int r, int u, int v){
+            if(u == v && v == 0)
+                return 0;
             if(v < l || r < u)
-                return blank;
+                return -inf;
             if(u <= l && r <= v)
                 return IT[id].val;
             down(id);
             int mid = (l+r) >> 1;
             T L = get(2*id, l, mid, u, v);
             T R = get(2*id+1, mid+1, r, u, v);
-            return func(L, R);
+            return max(L, R);
         }
 };
