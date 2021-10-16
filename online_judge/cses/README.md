@@ -5,3 +5,4 @@
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 | [1648 - Dynamic Range Sum Queries](1648)  | `Range Queries`, `Fenwick tree` |
 | [1144 - Salary Queries](1144)             | `Range Queries`, `Fenwick tree`, `Offline process` |
+| [2166 - Prefix Sum Queries](2166)         | `Range Queries`, `Segment tree`, `Prefix sum` |
