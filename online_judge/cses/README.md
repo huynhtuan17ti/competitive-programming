@@ -7,3 +7,4 @@
 | [1144 - Salary Queries](1144)             | `Range Queries`, `Fenwick tree`, `Offline process` |
 | [2166 - Prefix Sum Queries](2166)         | `Range Queries`, `Segment tree`, `Prefix sum` |
 | [2206 - Pizzeria Queries](2206)           | `Segment tree` |
+| [2416 - Increasing Array Queries](2416)   | `Range Queries`, `Segment tree`, `Offline process`, `Stack`, `Prefix sum`|
