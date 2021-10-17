@@ -45,3 +45,5 @@
 | [1594D](1594D)                        | `DFS`, `Graph`, `Bipartite Graph` |
 | [1598D](1598D)                        | `Math` |
 | [1598E](1598E)                        | `Dp`, `Update` |
+| [1586C](1586C)                        | `Prefix sum` |
+| [1586D](1586D)                        | `Interactive problem` |
