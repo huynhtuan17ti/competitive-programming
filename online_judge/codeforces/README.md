@@ -48,3 +48,4 @@
 | [1586C](1586C)                        | `Prefix sum` |
 | [1586D](1586D)                        | `Interactive problem` |
 | [1601A](1601A)                        | `Bitwise` |
+| [1601B](1601B)                        | `BFS`, `Greedy` |
