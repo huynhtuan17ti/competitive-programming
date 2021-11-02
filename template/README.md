@@ -13,6 +13,7 @@
 | [LCA](LCA.h)  | None  | None |
 | [MatrixMuliplication](MatrixMulti.h) | [222E](https://codeforces.com/problemset/problem/222/E) | [222E.cpp](../online_judge/codeforces/222E/sol.cpp) |
 | [Geometry](Geometry.h) | None | None |
+| [PersintentSegmentTree](PersistentSegmentTree.h) | [1737](https://cses.fi/problemset/task/1737/) | [1737.cpp](../online_judge/cses/1737/sol.cpp)
 
 
 ## Code checking
