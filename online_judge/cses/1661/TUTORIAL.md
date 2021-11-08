@@ -38,3 +38,5 @@ But notice that we can calculate the number of $j$ when iterating $i$. Denote $F
 As the above pseudo code, we can reduce the variable $i$ of $F$. To store $F$ we can use a common data structure `Hash table`.
 
 The complexity of this algorithm is $O(np)$ with $p$ depending on the implementation of `hash table`.
+
+_Written by Tuan Huynh (11-8-2021)_
