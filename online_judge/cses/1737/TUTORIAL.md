@@ -34,6 +34,6 @@ The pseudo code as follow:
         cur_ver += 1
 ```
 
-The complexity of above alogrithm is $O(np)$ which $p$ the complexity of the updating. We can use a popular data structure `Segment Tree` to implement the update function in $O(logn)$. But in this problem, it's a bit difficult that we have to combine 2 data structure above together.
+The complexity of above alogrithm is $O(np)$ which $p$ the complexity of updating. We can use a popular data structure `Segment Tree` to implement the update function in $O(logn)$. But in this problem, it's a bit difficult that we have to combine 2 data structures above together.
 
 _Written by Tuan Huynh (11 - 9 - 2021)_
