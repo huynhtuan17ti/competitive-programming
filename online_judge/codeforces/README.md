@@ -49,3 +49,5 @@
 | [1586D](1586D)                        | `Interactive problem` |
 | [1601A](1601A)                        | `Bitwise` |
 | [1601B](1601B)                        | `BFS`, `Greedy` |
+| [1588A](1588A)                        | `Sorting`, `Greedy` |
+| [1612D](1612D)                        | `GCD`, `Math` |
