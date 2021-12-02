@@ -10,3 +10,4 @@
 | [2416 - Increasing Array Queries](2416)   | `Range Queries`, `Segment tree`, `Offline process`, `Stack`, `Prefix sum`|
 | [1737 - Range Queries and Copies](1737)   | `Range Queries`, `Segment tree`, `Persistent` |
 | [1736 - Polynomial Queries](1736)         | `Range Queries`, `Segment tree`, `Polynomial` |
+| [1734 - Distinct Values Queries](1734)    | `Range Queries`, `Segment tree`, `Persistent`, `Online process` |
