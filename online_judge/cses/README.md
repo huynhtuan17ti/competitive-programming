@@ -11,3 +11,4 @@
 | [1737 - Range Queries and Copies](1737)   | `Range Queries`, `Segment tree`, `Persistent` |
 | [1736 - Polynomial Queries](1736)         | `Range Queries`, `Segment tree`, `Polynomial` |
 | [1734 - Distinct Values Queries](1734)    | `Range Queries`, `Segment tree`, `Persistent`, `Online process` |
+| [1735 - Range Updates and Sums](1735)     | `Range Queries`, `Segment tree` |
