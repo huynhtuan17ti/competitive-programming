@@ -12,3 +12,4 @@
 | [1736 - Polynomial Queries](1736)         | `Range Queries`, `Segment tree`, `Polynomial` |
 | [1734 - Distinct Values Queries](1734)    | `Range Queries`, `Segment tree`, `Persistent`, `Online process` |
 | [1735 - Range Updates and Sums](1735)     | `Range Queries`, `Segment tree` |
+| [1739 - Forest Queries II](1739)          | `Range Queries`, `Fenwick tree 2D`|
