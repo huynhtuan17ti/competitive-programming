@@ -16,3 +16,4 @@
 | [1190 - Subarray Sum Queries](1190)       | `Range Queries`, `Segment Tree` |
 | [1749 - List Removals](1749)              | `Range Queries`, `Fenwick Tree`, `Binary Search`|
 | [1143 - Hotel Queries](1143)              | `Range Queries`, `Segment Tree`, `Binary Search` |
+| [1652 - Forest Queries](1652)             | `Range Queries`, `Prefix sum`|
