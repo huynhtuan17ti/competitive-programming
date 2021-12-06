@@ -17,4 +17,5 @@
 | [1749 - List Removals](1749)              | `Range Queries`, `Fenwick Tree`, `Binary Search`|
 | [1143 - Hotel Queries](1143)              | `Range Queries`, `Segment Tree`, `Binary Search` |
 | [1652 - Forest Queries](1652)             | `Range Queries`, `Prefix sum` |
-| [1651 - Range Update Queries](1651)       | `Range Queries`, `FenwickTree`|
+| [1651 - Range Update Queries](1651)       | `Range Queries`, `Fenwick Tree`|
+| [1650 - Range Xor Queries](1650)          | `Range Queries`, `Xor` |
