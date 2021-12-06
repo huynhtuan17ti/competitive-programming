@@ -14,4 +14,5 @@
 | [1735 - Range Updates and Sums](1735)     | `Range Queries`, `Segment tree` |
 | [1739 - Forest Queries II](1739)          | `Range Queries`, `Fenwick tree 2D`|
 | [1190 - Subarray Sum Queries](1190)       | `Range Queries`, `Segment Tree` |
-| [1749 - List Removals](1749)              | `Range Queries`, `Fenwick Tree` |
+| [1749 - List Removals](1749)              | `Range Queries`, `Fenwick Tree`, `Binary Search`|
+| [1143 - Hotel Queries](1143)              | `Range Queries`, `Segment Tree`, `Binary Search` |
