@@ -20,3 +20,4 @@
 | [1651 - Range Update Queries](1651)       | `Range Queries`, `Fenwick Tree`|
 | [1650 - Range Xor Queries](1650)          | `Range Queries`, `Xor` |
 | [1649 - Dynamic Range Minimum Queries](1649) | `Range Queries`, `Segment Tree` |
+| [1647 - Static Range Minimum Queries](1647) | `Range Queries`, `Sparse Table` |
