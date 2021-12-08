@@ -20,3 +20,4 @@
 | [MSKYCODE](MSKYCODE)                  | `Math`, `Backtracking`, `Seive`, `Inclusive-Exclusive` |
 | [FCGIFT](FCGIFT)                      | `Graph`, `Dijktra`, `Segment Tree`, `Dp bitmask` |
 | [fc054_industrialspy](fc054_industrialspy) | `Seive` |
+| [fct008_xormatrix](fct008_xormatrix)  | `Xor`, `Constructive Problem` |
