@@ -22,3 +22,4 @@
 | [fc054_industrialspy](fc054_industrialspy) | `Seive` |
 | [fct008_xormatrix](fct008_xormatrix)  | `Xor`, `Constructive Problem` |
 | [fc046_countingtree](fc046_countingtree) | `Tree`, `Math` |
+| [fc125_fear](fc125_fear)              | `Dp`, `String` |
