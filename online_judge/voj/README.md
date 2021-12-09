@@ -25,3 +25,4 @@
 | [fc125_fear](fc125_fear)                          | `Dp`, `String` |
 | [fc128_sequenceweight](fc128_sequenceweight)      | `Map std` |
 | [fc090_divcan](fc090_divcan)                      | `Math`, `Euler Candy`, `Bit mask`, `Lucas Theorem` |
+| [fc092_hyvong](fc092_hyvong)                      | `Graph`, `Dijktra`, `Dp` |
