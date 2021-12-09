@@ -19,65 +19,71 @@ ll sum[MAXN];
 
 template <typename T>
 class LazySegmentTree{
+private:
     struct node{
         T val, lazy;
         node(){
             val = lazy = 0;
         }
     };
-    public:
-        vector <node> IT;
-        LazySegmentTree(int n){
-            IT.resize(4*n+5);
-        }
-        void build(int id, int l, int r){
-            if(l == r){
-                IT[id].val = sum[l];
-                return;
-            }
-            int mid = (l+r) >> 1;
-            build(2*id, l, mid);
-            build(2*id+1, mid+1, r);
-            IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
-        }
-        void push(int id, T val){
-            IT[id].val += val;
-            IT[id].lazy += val;
-        }
-        void down(int id){
-            T k = IT[id].lazy;
-            if(k == 0)
-                return;
+public:
+    vector <node> IT;
+    LazySegmentTree(int n){
+        IT.resize(4*n+5);
+    }
 
-            push(2*id, k);
-            push(2*id+1, k);
+    void build(int id, int l, int r){
+        if(l == r){
+            IT[id].val = sum[l];
+            return;
+        }
+        int mid = (l+r) >> 1;
+        build(2*id, l, mid);
+        build(2*id+1, mid+1, r);
+        IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
+    }
 
-            IT[id].lazy = 0;
+    void push(int id, T val){
+        IT[id].val += val;
+        IT[id].lazy += val;
+    }
+
+    void down(int id){
+        T k = IT[id].lazy;
+        if(k == 0)
+            return;
+
+        push(2*id, k);
+        push(2*id+1, k);
+
+        IT[id].lazy = 0;
+    }
+
+    void update(int id, int l, int r, int u, int v, T val){
+        if(v < l || r < u)
+            return;
+        if(u <= l && r <= v){
+            push(id, val);
+            return;
         }
-        void update(int id, int l, int r, int u, int v, T val){
-            if(v < l || r < u)
-                return;
-            if(u <= l && r <= v){
-                push(id, val);
-                return;
-            }
-            down(id);
-            int mid = (l+r) >> 1;
-            update(2*id, l, mid, u, v, val);
-            update(2*id+1, mid+1, r, u, v, val);
-            IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
-        }
-        T get(int id, int l, int r, int u, int v){
-            if(u == v && v == 0)
-                return 0;
-            if(v < l || r < u)
-                return -inf;
-            if(u <= l && r <= v)
-                return IT[id].val;
-            down(id);
-            int mid = (l+r) >> 1;
-            T L = get(2*id, l, mid, u, v);
-            T R = get(2*id+1, mid+1, r, u, v);
-            return max(L, R);
-        }
+        down(id);
+        int mid = (l+r) >> 1;
+        update(2*id, l, mid, u, v, val);
+        update(2*id+1, mid+1, r, u, v, val);
+        IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
+    }
+    
+    T get(int id, int l, int r, int u, int v){
+        if(u == v && v == 0)
+            return 0;
+        if(v < l || r < u)
+            return -inf;
+        if(u <= l && r <= v)
+            return IT[id].val;
+        down(id);
+        int mid = (l+r) >> 1;
+        T L = get(2*id, l, mid, u, v);
+        T R = get(2*id+1, mid+1, r, u, v);
+        return max(L, R);
+    }
 };
