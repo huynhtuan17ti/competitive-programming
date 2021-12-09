@@ -24,3 +24,4 @@
 | [fc046_countingtree](fc046_countingtree)          | `Tree`, `Math` |
 | [fc125_fear](fc125_fear)                          | `Dp`, `String` |
 | [fc128_sequenceweight](fc128_sequenceweight)      | `Map std` |
+| [fc090_divcan](fc090_divcan)                      | `Math`, `Euler Candy`, `Bit mask`, `Lucas Theorem` |
