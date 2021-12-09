@@ -27,3 +27,4 @@
 | [fc090_divcan](fc090_divcan)                      | `Math`, `Euler Candy`, `Bit mask`, `Lucas Theorem` |
 | [fc092_hyvong](fc092_hyvong)                      | `Graph`, `Dijktra`, `Dp` |
 | [fc055_tretrau](fc055_tretrau)                    | `Array`, `Storing` |
+| [fc075_range](fc075_range)                        | `Graph`, `DSU` |
