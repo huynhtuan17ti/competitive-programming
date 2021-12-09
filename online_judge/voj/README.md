@@ -26,3 +26,4 @@
 | [fc128_sequenceweight](fc128_sequenceweight)      | `Map std` |
 | [fc090_divcan](fc090_divcan)                      | `Math`, `Euler Candy`, `Bit mask`, `Lucas Theorem` |
 | [fc092_hyvong](fc092_hyvong)                      | `Graph`, `Dijktra`, `Dp` |
+| [fc055_tretrau](fc055_tretrau)                    | `Array`, `Storing` |
