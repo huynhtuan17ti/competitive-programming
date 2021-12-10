@@ -29,3 +29,4 @@
 | [fc055_tretrau](fc055_tretrau)                    | `Array`, `Storing` |
 | [fc075_range](fc075_range)                        | `Graph`, `DSU` |
 | [fc100_haiqua](fc100_haiqua)                      | `Binary Tree`, `Segment Tree` |
+| [fc092_cute](fc092_cute)                          | `Dp digit`, `Greedy`, `Storing`, `Pre-process` |
