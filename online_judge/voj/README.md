@@ -33,3 +33,4 @@
 | [fc093_claus](fc093_claus)                        | `Dp bitmask` |
 | [fc037_oantuti](fc037_oantuti)                    | `Dp` |
 | [colorec](colorec)                                | `Storing` |
+| [fc054_eightcircles](fc054_eightcircles)          | `Math`, `Circle packing problem` |
