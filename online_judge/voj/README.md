@@ -32,3 +32,4 @@
 | [fc092_cute](fc092_cute)                          | `Dp digit`, `Greedy`, `Storing`, `Pre-process` |
 | [fc093_claus](fc093_claus)                        | `Dp bitmask` |
 | [fc037_oantuti](fc037_oantuti)                    | `Dp` |
+| [colorec](colorec)                                | `Storing` |
