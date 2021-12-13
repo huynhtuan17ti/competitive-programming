@@ -1,12 +1,17 @@
 ## CSES problem
+### Sorting and Searching
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
+
+### Range Queries
+| Problem                                   | Tag |
+| -----------                               | ----------- |
 | [1648 - Dynamic Range Sum Queries](1648)  | `Range Queries`, `Fenwick tree` |
 | [1144 - Salary Queries](1144)             | `Range Queries`, `Fenwick tree`, `Offline process` |
 | [2166 - Prefix Sum Queries](2166)         | `Range Queries`, `Segment tree`, `Prefix sum` |
-| [2206 - Pizzeria Queries](2206)           | `Segment tree` |
+| [2206 - Pizzeria Queries](2206)           | `Range Queries`, `Segment tree` |
 | [2416 - Increasing Array Queries](2416)   | `Range Queries`, `Segment tree`, `Offline process`, `Stack`, `Prefix sum`|
 | [1737 - Range Queries and Copies](1737)   | `Range Queries`, `Segment tree`, `Persistent` |
 | [1736 - Polynomial Queries](1736)         | `Range Queries`, `Segment tree`, `Polynomial` |
@@ -22,3 +27,8 @@
 | [1649 - Dynamic Range Minimum Queries](1649) | `Range Queries`, `Segment Tree` |
 | [1647 - Static Range Minimum Queries](1647) | `Range Queries`, `Sparse Table` |
 | [1646 - Static Range Sum Queries](1646)   | `Range Queries`, `Prefix sum` |
+
+### Graph Algorithms
+| Problem                                   | Tag |
+| -----------                               | ----------- |
+| [1192 - Counting Rooms](1192)             | `Graph`, `DFS` |
