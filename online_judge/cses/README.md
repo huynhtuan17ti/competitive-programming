@@ -32,3 +32,4 @@
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1192 - Counting Rooms](1192)             | `Graph`, `DFS` |
+| [1193 - Labyrinth](1193)                  | `Graph`, `BFS` |
