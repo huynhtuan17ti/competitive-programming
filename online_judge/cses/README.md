@@ -33,3 +33,4 @@
 | -----------                               | ----------- |
 | [1192 - Counting Rooms](1192)             | `Graph`, `DFS` |
 | [1193 - Labyrinth](1193)                  | `Graph`, `BFS` |
+| [1666 - Building Roads](1666)             | `Graph`, `DSU` |
