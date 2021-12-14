@@ -36,3 +36,4 @@
 | [1666 - Building Roads](1666)             | `Graph`, `DSU` |
 | [1667 - Message Route](1667)              | `Graph`, `BFS` |
 | [1668 - Building Teams](1668)             | `Graph`, `DFS` |
+| [1669 - Round Trip](1669)                 | `Graph`, `DFS`, `Cycle` |
