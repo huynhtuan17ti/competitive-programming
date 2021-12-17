@@ -38,3 +38,4 @@
 | [1668 - Building Teams](1668)             | `Graph`, `DFS` |
 | [1669 - Round Trip](1669)                 | `Graph`, `DFS`, `Cycle` |
 | [1194 - Monsters](1194)                   | `Graph`, `BFS` |
+| [1671 - Shortest Routes I](1671)          | `Graph`, `Dijktra` |
