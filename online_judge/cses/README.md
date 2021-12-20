@@ -42,3 +42,4 @@
 | [1672 - Shortest Routes II](1672)         | `Graph`, `Floyd` |
 | [1195 - Flight Discount](1195)            | `Graph`, `Dijktra`, `Dp` |
 | [1197 - Cycle Finding](1197)              | `Graph`, `BellmanFord`, `Cycle` |
+| [1196 - Flight Routes](1196)              | `Graph`, `Dijktra` |
