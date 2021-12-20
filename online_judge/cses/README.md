@@ -40,3 +40,4 @@
 | [1194 - Monsters](1194)                   | `Graph`, `BFS` |
 | [1671 - Shortest Routes I](1671)          | `Graph`, `Dijktra` |
 | [1672 - Shortest Routes II](1672)         | `Graph`, `Floyd` |
+| [1195 - Flight Discount](1195)            | `Graph`, `Dijktra`, `Dp` |
