@@ -40,6 +40,8 @@
 | [1194 - Monsters](1194)                   | `Graph`, `BFS` |
 | [1671 - Shortest Routes I](1671)          | `Graph`, `Dijktra` |
 | [1672 - Shortest Routes II](1672)         | `Graph`, `Floyd` |
+| [1673 - High Score](1673)                 | `Graph`, `BellmanFord` |
 | [1195 - Flight Discount](1195)            | `Graph`, `Dijktra`, `Dp` |
 | [1197 - Cycle Finding](1197)              | `Graph`, `BellmanFord`, `Cycle` |
 | [1196 - Flight Routes](1196)              | `Graph`, `Dijktra` |
+| [1678 - Round Trip II](1678)              | `Graph`, `Cycle`, `DFS` | 
