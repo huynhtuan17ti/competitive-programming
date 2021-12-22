@@ -46,3 +46,4 @@
 | [1196 - Flight Routes](1196)              | `Graph`, `Dijktra` |
 | [1678 - Round Trip II](1678)              | `Graph`, `Cycle`, `DFS` |
 | [1679 - Course Schedule](1679)            | `Graph`, `DFS`, `Toposort` |
+| [1680 - Longest Flight Route](1680)       | `Graph`, `DFS`, `Toposort`, `Dp` |
