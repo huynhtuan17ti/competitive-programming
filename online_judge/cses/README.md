@@ -44,4 +44,5 @@
 | [1195 - Flight Discount](1195)            | `Graph`, `Dijktra`, `Dp` |
 | [1197 - Cycle Finding](1197)              | `Graph`, `BellmanFord`, `Cycle` |
 | [1196 - Flight Routes](1196)              | `Graph`, `Dijktra` |
-| [1678 - Round Trip II](1678)              | `Graph`, `Cycle`, `DFS` | 
+| [1678 - Round Trip II](1678)              | `Graph`, `Cycle`, `DFS` |
+| [1679 - Course Schedule](1679)            | `Graph`, `DFS`, `Toposort` |
