@@ -48,3 +48,4 @@
 | [1679 - Course Schedule](1679)            | `Graph`, `DFS`, `Toposort` |
 | [1680 - Longest Flight Route](1680)       | `Graph`, `DFS`, `Toposort`, `Dp` |
 | [1681 - Game Routes](1681)                | `Graph`, `DFS`, `Toposort`, `Dp` |
+| [1202 - Investigation](1202)              | `Graph`, `Dijktra`, `Dp` |
