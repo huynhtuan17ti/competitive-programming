@@ -53,5 +53,7 @@
 | [1612D](1612D)                        | `GCD`, `Math` |
 | [1613D](1613D)                        | `Dp`, `MEX` |
 | [1613E](1613E)                        | `BFS` |
-| [1609D](1609D)                       | `Graph`, `DSU` |
+| [1609D](1609D)                        | `Graph`, `DSU` |
 | [1609E*](1609E)                       | `Segment Tree`, `Merge` |
+| [1615C](1615C)                        | `Constructive` |
+| [1615D](1615D)                        | `Graph`, `DFS`, `Bitwise` |
