@@ -57,3 +57,4 @@
 | [1609E*](1609E)                       | `Segment Tree`, `Merge` |
 | [1615C](1615C)                        | `Constructive` |
 | [1615D](1615D)                        | `Graph`, `DFS`, `Bitwise` |
+| [1622D](1622D)                        | `Math`, `Combinatorics` |
