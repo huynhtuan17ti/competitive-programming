@@ -58,3 +58,5 @@
 | [1615C](1615C)                        | `Constructive` |
 | [1615D](1615D)                        | `Graph`, `DFS`, `Bitwise` |
 | [1622D](1622D)                        | `Math`, `Combinatorics` |
+| [1616D](1616D)                        | `Greedy` |
+| [1616E](1616E)                        | `Greedy`, `Fenwick Tree` |
