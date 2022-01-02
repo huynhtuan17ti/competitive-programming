@@ -49,4 +49,5 @@
 | [1680 - Longest Flight Route](1680)       | `Graph`, `DFS`, `Toposort`, `Dp` |
 | [1681 - Game Routes](1681)                | `Graph`, `DFS`, `Toposort`, `Dp` |
 | [1202 - Investigation](1202)              | `Graph`, `Dijktra`, `Dp` |
-| [1750 - Planets Queries I](1750)          | `Graph`, `RMQ` |
+| [1750 - Planets Queries I](1750)          | `Graph`, `Sparse Table` |
+| [1160 - Planets Queries II](1160)         | `Graph`, `DFS`, `Cycle`, `Sparse Table` |
