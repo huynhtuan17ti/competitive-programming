@@ -35,3 +35,4 @@
 | [colorec](colorec)                                | `Storing` |
 | [fc054_eightcircles](fc054_eightcircles)          | `Math`, `Circle packing problem` |
 | [fc085_uetacm](fc085_uetacm)                      | `Bit mask`, `builtin_function` |
+| [C11COMP](C11COMP)                                | `DFS`, `Graph`, `Mo algorithm` |
