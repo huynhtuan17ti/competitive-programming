@@ -51,3 +51,4 @@
 | [1202 - Investigation](1202)              | `Graph`, `Dijktra`, `Dp` |
 | [1750 - Planets Queries I](1750)          | `Graph`, `Sparse Table` |
 | [1160 - Planets Queries II](1160)         | `Graph`, `DFS`, `Cycle`, `Sparse Table` |
+| [1751 - Planets Cycles](1751)             | `Graph`, `DFS`, `Cycle` |
