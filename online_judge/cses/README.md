@@ -52,3 +52,4 @@
 | [1750 - Planets Queries I](1750)          | `Graph`, `Sparse Table` |
 | [1160 - Planets Queries II](1160)         | `Graph`, `DFS`, `Cycle`, `Sparse Table` |
 | [1751 - Planets Cycles](1751)             | `Graph`, `DFS`, `Cycle` |
+| [1675 - Road Reparation](1675)            | `Graph`, `DSU` |
