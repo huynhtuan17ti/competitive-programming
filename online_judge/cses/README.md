@@ -58,3 +58,4 @@
 | [1683 - Planets and Kingdoms](1683)       | `Graph`, `DFS`, `Tarjan`, `SCC` |
 | [1684 - Giant Pizza](1684)                | `Graph`, `DFS`, `Tarjan`, `SCC`, `2-SAT` |
 | [1686 - Coin Collector](1686)             | `Graph`, `DFS`, `Tarjan`, `SCC`, `Topo`, `Dp` |
+| [1691 - Mail Delivery](1691)              | `Graph`, `Euler` |
