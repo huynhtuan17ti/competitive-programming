@@ -57,3 +57,4 @@
 | [1682 - Flight Routes Check](1682)        | `Graph`, `DFS`, `Tarjan`, `SCC` |
 | [1683 - Planets and Kingdoms](1683)       | `Graph`, `DFS`, `Tarjan`, `SCC` |
 | [1684 - Giant Pizza](1684)                | `Graph`, `DFS`, `Tarjan`, `SCC`, `2-SAT` |
+| [1686 - Coin Collector](1686)             | `Graph`, `DFS`, `Tarjan`, `SCC`, `Topo`, `Dp` |
