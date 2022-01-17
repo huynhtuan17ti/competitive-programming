@@ -56,3 +56,4 @@
 | [1676 - Road Construction](1676)          | `Graph`, `DSU` |
 | [1682 - Flight Routes Check](1682)        | `Graph`, `DFS`, `Tarjan`, `SCC` |
 | [1683 - Planets and Kingdoms](1683)       | `Graph`, `DFS`, `Tarjan`, `SCC` |
+| [1684 - Giant Pizza](1684)                | `Graph`, `DFS`, `Tarjan`, `SCC`, `2-SAT` |
