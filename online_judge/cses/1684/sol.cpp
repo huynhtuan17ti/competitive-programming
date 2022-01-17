@@ -25,7 +25,9 @@ int low[MAXN], num[MAXN];
 int cntTime = 0, cntSCC = 0, SCC[MAXN];
 vector <int> inSCC[MAXN];
 stack <int> st;
-queue <int> q;
+queue <int> q; 
+// storing topo order with queue instead of stack
+// because we need to go from back to begin of topo order
 
 void DFS(int u){
     low[u] = num[u] = ++cntTime;
@@ -77,10 +79,12 @@ int main(){
         cin >> c1 >> u >> c2 >> v;
         if(c1 == '-') u += n;
         if(c2 == '-') v += n;
+        // add (-v -> u) and (-u -> v)
         G[getNot(u)].push_back(v);
         G[getNot(v)].push_back(u);
     }
 
+    // using tarjan's algorithm to find SCC.
     for(int i = 1; i <= 2*n; i++)
         if(!num[i])
             DFS(i);
@@ -92,6 +96,7 @@ int main(){
         if(SCC[i] == SCC[i+n])
             return cout << "IMPOSSIBLE", 0;
         else{
+            // store the opposite component.
             notSCC[SCC[i]] = SCC[i+n];
             notSCC[SCC[i+n]] = SCC[i];
         }
@@ -115,10 +120,12 @@ int main(){
         int u = q.front();
         q.pop();
         if(ansSCC[u] == -1){ // not pick
+            // if u = 1 then -u must be 0
             ansSCC[u] = 1;
             ansSCC[notSCC[u]] = 0;
         }
 
+        // set value of all nodes in the current SCC
         for(int v: inSCC[u]){
             ans[v] = ansSCC[u];
         }
