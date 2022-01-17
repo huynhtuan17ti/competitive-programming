@@ -38,17 +38,17 @@
 | [1668 - Building Teams](1668)             | `Graph`, `DFS` |
 | [1669 - Round Trip](1669)                 | `Graph`, `DFS`, `Cycle` |
 | [1194 - Monsters](1194)                   | `Graph`, `BFS` |
-| [1671 - Shortest Routes I](1671)          | `Graph`, `Dijktra` |
+| [1671 - Shortest Routes I](1671)          | `Graph`, `Dijkstra` |
 | [1672 - Shortest Routes II](1672)         | `Graph`, `Floyd` |
 | [1673 - High Score](1673)                 | `Graph`, `BellmanFord` |
 | [1195 - Flight Discount](1195)            | `Graph`, `Dijktra`, `Dp` |
 | [1197 - Cycle Finding](1197)              | `Graph`, `BellmanFord`, `Cycle` |
-| [1196 - Flight Routes](1196)              | `Graph`, `Dijktra` |
+| [1196 - Flight Routes](1196)              | `Graph`, `Dijkstra` |
 | [1678 - Round Trip II](1678)              | `Graph`, `Cycle`, `DFS` |
 | [1679 - Course Schedule](1679)            | `Graph`, `DFS`, `Toposort` |
 | [1680 - Longest Flight Route](1680)       | `Graph`, `DFS`, `Toposort`, `Dp` |
 | [1681 - Game Routes](1681)                | `Graph`, `DFS`, `Toposort`, `Dp` |
-| [1202 - Investigation](1202)              | `Graph`, `Dijktra`, `Dp` |
+| [1202 - Investigation](1202)              | `Graph`, `Dijkstra`, `Dp` |
 | [1750 - Planets Queries I](1750)          | `Graph`, `Sparse Table` |
 | [1160 - Planets Queries II](1160)         | `Graph`, `DFS`, `Cycle`, `Sparse Table` |
 | [1751 - Planets Cycles](1751)             | `Graph`, `DFS`, `Cycle` |
