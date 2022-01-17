@@ -54,3 +54,4 @@
 | [1751 - Planets Cycles](1751)             | `Graph`, `DFS`, `Cycle` |
 | [1675 - Road Reparation](1675)            | `Graph`, `DSU` |
 | [1676 - Road Construction](1676)          | `Graph`, `DSU` |
+| [1682 - Flight Routes Check](1682)        | `Graph`, `DFS`, `Tarjan`, `SCC` |
