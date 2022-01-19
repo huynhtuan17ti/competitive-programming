@@ -61,3 +61,4 @@
 | [1691 - Mail Delivery](1691)              | `Graph`, `Euler` |
 | [1692 - De Bruijn Sequence](1692)         | `Graph`, `Euler`, `De Bruijn Sequence` |
 | [1693 - Teleporters Path](1693)           | `Graph`, `Euler path` |
+| [1690 - Hamiltonian Flights](1690)        | `Graph`, `Dp bitmask` |
