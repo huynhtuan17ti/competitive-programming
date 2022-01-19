@@ -59,4 +59,5 @@
 | [1684 - Giant Pizza](1684)                | `Graph`, `DFS`, `Tarjan`, `SCC`, `2-SAT` |
 | [1686 - Coin Collector](1686)             | `Graph`, `DFS`, `Tarjan`, `SCC`, `Topo`, `Dp` |
 | [1691 - Mail Delivery](1691)              | `Graph`, `Euler` |
-| [1692 - De Bruijn Sequence](1692)         | `Graph`, `DFS`, `Euler`, `De Bruijn Sequence` |
+| [1692 - De Bruijn Sequence](1692)         | `Graph`, `Euler`, `De Bruijn Sequence` |
+| [1693 - Teleporters Path](1693)           | `Graph`, `Euler path` |
