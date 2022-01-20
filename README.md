@@ -1,4 +1,5 @@
-# Competitive Programming
+# Competitive Programming Workspace
+Almost all "wasted" time of my life was spent on this.
 
 ## Online judge problem solutions
 - [Voj Judge](online_judge/voj/README.md)
@@ -7,6 +8,3 @@
 - [Atcoder](online_judge/atcoder/README.md)
 - [Codechef](online_judge/codechef)
 - [CSES](online_judge/cses/README.md)
-
-## To Readable
-Using [MathJax](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod) for being able to read mathematical formula.
