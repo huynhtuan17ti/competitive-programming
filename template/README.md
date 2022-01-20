@@ -14,6 +14,9 @@
 | [MatrixMuliplication](MatrixMulti.h) | [222E](https://codeforces.com/problemset/problem/222/E) | [222E.cpp](../online_judge/codeforces/222E/sol.cpp) |
 | [Geometry](Geometry.h) | None | None |
 | [PersistentSegmentTree](PersistentSegmentTree.h) | [1737](https://cses.fi/problemset/task/1737/) | [1737.cpp](../online_judge/cses/1737/sol.cpp)
+| [MaximumFlow](MaxFlow.h) | [1694](https://cses.fi/problemset/task/1694/) | [1694.cpp](../online_judege/cses/1694/sol.cpp) |
+| [StronglyConnectedComponent](SCC.cpp) | None | None |
+| [EulerPath](EulerPath.h) | None | None |
 
 
 ## Code checking
