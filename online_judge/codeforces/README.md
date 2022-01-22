@@ -60,3 +60,7 @@
 | [1622D](1622D)                        | `Math`, `Combinatorics` |
 | [1616D](1616D)                        | `Greedy` |
 | [1616E](1616E)                        | `Greedy`, `Fenwick Tree` |
+| [1628A](1628A)                        | `MEX`, `Greedy`, `Storing` |
+| [1628B](1628B)                        | `Greedy` |
+| [1628C](1628C)                        | `Greedy`, `constructive algorithms`, `math` |
+| [1628D](1628D)                        | `Math`, `Dp`, `Games` |
