@@ -5,7 +5,7 @@
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 
-### Range Queries
+### Range Queries (Done)
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1648 - Dynamic Range Sum Queries](1648)  | `Range Queries`, `Fenwick tree` |
@@ -28,7 +28,7 @@
 | [1647 - Static Range Minimum Queries](1647) | `Range Queries`, `Sparse Table` |
 | [1646 - Static Range Sum Queries](1646)   | `Range Queries`, `Prefix sum` |
 
-### Graph Algorithms
+### Graph Algorithms (Done)
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1192 - Counting Rooms](1192)             | `Graph`, `DFS` |
