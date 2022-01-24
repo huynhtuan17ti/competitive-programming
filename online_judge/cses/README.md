@@ -65,3 +65,4 @@
 | [1694 - Download Speed](1694)             | `Graph`, `Max flow` |
 | [1695 - Police Chase](1695)               | `Graph`, `Minimum-cut`, `Max flow` |
 | [1696 - School Dance](1696)               | `Graph`, `Maximum matching` |
+| [1711 - Distinct Routes](1711)            | `Graph`, `Max flow`, `DFS` |
