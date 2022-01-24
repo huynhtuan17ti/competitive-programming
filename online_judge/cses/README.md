@@ -62,6 +62,7 @@
 | [1692 - De Bruijn Sequence](1692)         | `Graph`, `Euler`, `De Bruijn Sequence` |
 | [1693 - Teleporters Path](1693)           | `Graph`, `Euler path` |
 | [1690 - Hamiltonian Flights](1690)        | `Graph`, `Dp bitmask` |
+| [1689 - Knight's Tour](1689)              | `Graph`, `Backtracking`, `Greedy` |
 | [1694 - Download Speed](1694)             | `Graph`, `Max flow` |
 | [1695 - Police Chase](1695)               | `Graph`, `Minimum-cut`, `Max flow` |
 | [1696 - School Dance](1696)               | `Graph`, `Maximum matching` |
