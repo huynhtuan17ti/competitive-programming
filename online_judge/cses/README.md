@@ -3,6 +3,7 @@
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1621 - Distinct Numbers](1621)           | `Map std` |
+| [1084 - Apartments](1084)                 | `Sorting`, `Greedy`, `Two pointers` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 
