@@ -13,6 +13,7 @@
 | [1074 - Stick Lengths](1074)              | `Math` |
 | [2183 - Missing Coin Sum](2183)           | `Math`, `Greedy`, `Sorting` |
 | [2216 - Collecting Numbers](2216)         | `Storing` |
+| [2217 - Collecting Numbers II](2217)      | `Storing`, `Queries` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 
