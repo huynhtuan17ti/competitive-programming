@@ -8,6 +8,7 @@
 | [1091 - Concert Tickets](1091)            | `Set std` |
 | [1619 - Restaurant Customers](1619)       | `Prefix sum`, `Sorting`, `Compression` |
 | [1629 - Movie Festival](1629)             | `Sorting`, `Fenwick Tree`, `Dp` |
+| [1640 - Sum of Two Values](1640)          | `Map std` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 
