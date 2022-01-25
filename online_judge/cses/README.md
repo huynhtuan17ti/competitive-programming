@@ -11,6 +11,7 @@
 | [1640 - Sum of Two Values](1640)          | `Map std` |
 | [1643 - Maximum Subarray Sum](1643)       | `Prefix sum` |
 | [1074 - Stick Lengths](1074)              | `Math` |
+| [2183 - Missing Coin Sum](2183)           | `Math`, `Greedy`, `Sorting` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 
