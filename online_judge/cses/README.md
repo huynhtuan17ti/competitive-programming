@@ -6,6 +6,7 @@
 | [1084 - Apartments](1084)                 | `Sorting`, `Greedy`, `Two pointers` |
 | [1090 - Ferris Wheel](1090)               | `Sorting`, `Greedy`, `Two pointers` |
 | [1091 - Concert Tickets](1091)            | `Set std` |
+| [1619 - Restaurant Customers](1619)       | `Prefix sum`, `Sorting`, `Compression` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 
