@@ -20,6 +20,7 @@
 | [2168 - Nested Ranges Check](2168)        | `Fenwick Tree`, `Sorting`, `Compression`, `Inclusive-Exclusive` |
 | [2169 - Nested Ranges Count](2169)        | `Fenwick Tree`, `Sorting`, `Compression`, `Inclusive-Exclusive` |
 | [1164 - Room Allocation](1164)            | `Sorting`, `Compression`, `Prefix sum`, `Queue` |
+| [1620 - Factory Machines](1620)           | `Binary Search` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 
