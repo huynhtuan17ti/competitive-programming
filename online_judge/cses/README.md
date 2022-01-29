@@ -14,6 +14,9 @@
 | [2183 - Missing Coin Sum](2183)           | `Math`, `Greedy`, `Sorting` |
 | [2216 - Collecting Numbers](2216)         | `Storing` |
 | [2217 - Collecting Numbers II](2217)      | `Storing`, `Queries` |
+| [1141 - Playlist](1141)                   | `Map std` |
+| [1073 - Towers](1073)                     | `Dp`, `Fenwick Tree` |
+| [1163 - Traffic Lights](1163)             | `Set std` |
 | [2168 - Nested Ranges Check](2168)        | `Fenwick Tree`, `Sorting`, `Compression`, `Inclusive-Exclusive` |
 | [2169 - Nested Ranges Count](2169)        | `Fenwick Tree`, `Sorting`, `Compression`, `Inclusive-Exclusive` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
