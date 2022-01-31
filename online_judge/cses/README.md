@@ -21,9 +21,18 @@
 | [2169 - Nested Ranges Count](2169)        | `Fenwick Tree`, `Sorting`, `Compression`, `Inclusive-Exclusive` |
 | [1164 - Room Allocation](1164)            | `Sorting`, `Compression`, `Prefix sum`, `Queue` |
 | [1620 - Factory Machines](1620)           | `Binary Search` |
+| [1630 - Tasks and Deadlines](1630)        | `Prefix sum`, `Sorting` |
+| [1631 - Reading Books](1631)              | `Greedy` |
+| [1641 - Sum of Three Values](1641)        | `Two pointers` |
+| [1642 - Sum of Four Values](1642)         | `Map std`, `Storing` |
+| [1645 - Nearest Smaller Values](1645)     | `Fenwick Tree`, `Sorting`, `Compression` |
+| [1660 - Subarray Sums I](1660)            | `Map std`, `Prefix sum` |
+| [1085 - Array Division](1085)             | `Binary search`, `Greedy` |
+| [1076 - Sliding Median](1076)             | `Median`, `Set std` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [1662 - Subarray Divisibility](1662)      | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
+| [1077 - Sliding Cost](1077)               | `Median`, `Set std` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
