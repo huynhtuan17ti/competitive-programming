@@ -23,6 +23,7 @@
 | [1620 - Factory Machines](1620)           | `Binary Search` |
 | [1630 - Tasks and Deadlines](1630)        | `Prefix sum`, `Sorting` |
 | [1631 - Reading Books](1631)              | `Greedy` |
+| [1641 - Sum of Three Values](1641)        | `Two pointers` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [1662 - Subarray Divisibility](1662)      | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
