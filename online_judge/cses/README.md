@@ -26,6 +26,7 @@
 | [1641 - Sum of Three Values](1641)        | `Two pointers` |
 | [1642 - Sum of Four Values](1642)         | `Map std`, `Storing` |
 | [1645 - Nearest Smaller Values](1645)     | `Fenwick Tree`, `Sorting`, `Compression` |
+| [1660 - Subarray Sums I](1660)            | `Map std`, `Prefix sum` |
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [1662 - Subarray Divisibility](1662)      | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
