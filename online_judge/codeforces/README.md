@@ -64,3 +64,4 @@
 | [1628B](1628B)                        | `Greedy` |
 | [1628C](1628C)                        | `Greedy`, `constructive algorithms`, `math` |
 | [1628D](1628D)                        | `Math`, `Dp`, `Games` |
+| [1633D](1633D)                        | `Dp`, `Math`, `Shortest path` |
