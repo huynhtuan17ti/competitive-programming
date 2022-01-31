@@ -32,6 +32,7 @@
 | [1661 - Subarray Sums II](1661)           | `Map std` |
 | [1662 - Subarray Divisibility](1662)      | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
+| [1077 - Sliding Cost](1077)               | `Median`, `Set std` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
