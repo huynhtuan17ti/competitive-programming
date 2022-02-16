@@ -65,3 +65,4 @@
 | [1628C](1628C)                        | `Greedy`, `constructive algorithms`, `math` |
 | [1628D](1628D)                        | `Math`, `Dp`, `Games` |
 | [1633D](1633D)                        | `Dp`, `Math`, `Shortest path` |
+| [1155E](1155E)                        | `Gauss`, `Interactive` |
