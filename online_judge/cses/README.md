@@ -33,6 +33,7 @@
 | [1662 - Subarray Divisibility](1662)      | `Map std` |
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 | [1077 - Sliding Cost](1077)               | `Median`, `Set std` |
+| [1632 - Movie Festival II](1632)          | `Greedy` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
