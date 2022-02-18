@@ -34,6 +34,7 @@
 | [2428 - Subarray Distinct Values](2428)   | `Map std` |
 | [1077 - Sliding Cost](1077)               | `Median`, `Set std` |
 | [1632 - Movie Festival II](1632)          | `Greedy` |
+| [1644 - Maximum Subarray Sum II](1644)    | `Deque` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
