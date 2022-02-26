@@ -38,7 +38,7 @@
 
 ### Dynamic Programming
 | [1633 - Dice Combinations](1633)          | `Dp` |
-
+| [1634 - Minimizing Coins](1634)           | `Dp` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
