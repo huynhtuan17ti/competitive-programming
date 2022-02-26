@@ -36,6 +36,10 @@
 | [1632 - Movie Festival II](1632)          | `Greedy` |
 | [1644 - Maximum Subarray Sum II](1644)    | `Deque` |
 
+### Dynamic Programming
+| [1633 - Dice Combinations](1633)          | `Dp` |
+
+
 ### Range Queries (Done)
 | Problem                                   | Tag |
 | -----------                               | ----------- |
