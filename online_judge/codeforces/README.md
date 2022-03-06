@@ -66,3 +66,5 @@
 | [1628D](1628D)                        | `Math`, `Dp`, `Games` |
 | [1633D](1633D)                        | `Dp`, `Math`, `Shortest path` |
 | [1155E](1155E)                        | `Gauss`, `Interactive` |
+| [1646D](1646D)                        | `Dp`, `Tree`, `Greedy`, `Graph` |
+| [1646E](1646E)                        | `Math`, `Combinatorics`, `Inclusive-Exclusive` |
