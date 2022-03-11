@@ -68,3 +68,4 @@
 | [1155E](1155E)                        | `Gauss`, `Interactive` |
 | [1646D](1646D)                        | `Dp`, `Tree`, `Greedy`, `Graph` |
 | [1646E](1646E)                        | `Math`, `Combinatorics`, `Inclusive-Exclusive` |
+| [1651D](1651D)                        | `BFS` |
