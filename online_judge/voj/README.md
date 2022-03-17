@@ -37,3 +37,4 @@
 | [fc085_uetacm](fc085_uetacm)                      | `Bit mask`, `builtin_function` |
 | [C11COMP](C11COMP)                                | `DFS`, `Graph`, `Mo algorithm` |
 | [fc111_curling](fc111_curling)                    | `Math` |
+| [reform](reform)                                  | `DFS`, `Tarjan`, `Combinatorics` |
