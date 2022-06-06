@@ -37,6 +37,8 @@
 | [1644 - Maximum Subarray Sum II](1644)    | `Deque` |
 
 ### Dynamic Programming
+| Problem                                   | Tag |
+| -----------                               | ----------- |
 | [1633 - Dice Combinations](1633)          | `Dp` |
 | [1634 - Minimizing Coins](1634)           | `Dp` |
 | [1635 - Coin Combinations I](1635)        | `Dp` |
