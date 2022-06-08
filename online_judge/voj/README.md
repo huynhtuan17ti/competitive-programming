@@ -38,3 +38,5 @@
 | [C11COMP](C11COMP)                                | `DFS`, `Graph`, `Mo algorithm` |
 | [fc111_curling](fc111_curling)                    | `Math` |
 | [reform](reform)                                  | `DFS`, `Tarjan`, `Combinatorics` |
+| [fc053_fj](fc053_fj)                              | `Compressing`, `Prefix sum`, `Two pointers` |
+| [fc131_hurrybird](fc131_hurrybird)                | `Math` |
