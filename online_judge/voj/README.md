@@ -40,3 +40,4 @@
 | [reform](reform)                                  | `DFS`, `Tarjan`, `Combinatorics` |
 | [fc053_fj](fc053_fj)                              | `Compressing`, `Prefix sum`, `Two pointers` |
 | [fc131_hurrybird](fc131_hurrybird)                | `Math` |
+| [fc131_travel](fc131_travel)                      | `LCA`, `Fenwick Tree`, `DFS`, `Graph` |
