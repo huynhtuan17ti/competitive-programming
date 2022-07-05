@@ -69,3 +69,4 @@
 | [1646D](1646D)                        | `Dp`, `Tree`, `Greedy`, `Graph` |
 | [1646E](1646E)                        | `Math`, `Combinatorics`, `Inclusive-Exclusive` |
 | [1651D](1651D)                        | `BFS` |
+| [1696E](1696E)                        | `Math`, `Combinatorics` |
