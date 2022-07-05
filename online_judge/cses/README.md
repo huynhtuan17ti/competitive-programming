@@ -44,6 +44,7 @@
 | [1635 - Coin Combinations I](1635)        | `Dp` |
 | [1636 - Coin Combinations II](1636)       | `Dp` |
 | [1637 - Removing Digits](1637)            | `Dp` |
+| [1638 - Grid Paths](1638)                 | `Dp` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
