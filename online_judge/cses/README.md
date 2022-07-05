@@ -45,6 +45,7 @@
 | [1636 - Coin Combinations II](1636)       | `Dp` |
 | [1637 - Removing Digits](1637)            | `Dp` |
 | [1638 - Grid Paths](1638)                 | `Dp` |
+| [1158 - Book Shop](1158)                  | `Dp` |
 | [1746 - Array Description](1746)          | `Dp` |
 
 ### Range Queries (Done)
