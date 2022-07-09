@@ -47,6 +47,7 @@
 | [1638 - Grid Paths](1638)                 | `Dp` |
 | [1158 - Book Shop](1158)                  | `Dp` |
 | [1746 - Array Description](1746)          | `Dp` |
+| [2413 - Counting Towers](2413)            | `Dp` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
