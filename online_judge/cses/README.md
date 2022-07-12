@@ -51,6 +51,7 @@
 | [1639 - Edit Distance](1639)              | `Dp` |
 | [1744 - Rectangle Cutting](1744)          | `Dp` |
 | [1745 - Money Sums](1745)                 | `Dp` |
+| [1097 - Removal Game](1097)               | `Dp` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
