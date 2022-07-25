@@ -115,3 +115,8 @@
 | [1695 - Police Chase](1695)               | `Graph`, `Minimum-cut`, `Max flow` |
 | [1696 - School Dance](1696)               | `Graph`, `Maximum matching` |
 | [1711 - Distinct Routes](1711)            | `Graph`, `Max flow`, `DFS` |
+
+### Tree Algorithms
+| Problem                                   | Tag |
+| -----------                               | ----------- |
+| [1674 - Subordinates](1674)               | `Graph`, `DFS`, `Tree`, `Dp` |
