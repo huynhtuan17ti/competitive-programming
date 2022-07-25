@@ -120,3 +120,4 @@
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1674 - Subordinates](1674)               | `Graph`, `DFS`, `Tree`, `Dp` |
+| [1130 - Tree Matching](1130)              | `Graph`, `DFS`, `Tree`, `Dp` |
