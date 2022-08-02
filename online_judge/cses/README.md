@@ -122,3 +122,4 @@
 | [1674 - Subordinates](1674)               | `Graph`, `DFS`, `Tree`, `Dp` |
 | [1130 - Tree Matching](1130)              | `Graph`, `DFS`, `Tree`, `Dp` |
 | [1131 - Tree Diameter](1131)              | `Graph`, `DFS`, `Tree`, `Dp` |
+| [1132 - Tree Distances I](1132)           | `Graph`, `DFS`, `Tree`, `Dp` |
