@@ -54,6 +54,7 @@
 | [1097 - Removal Game](1097)               | `Dp` |
 | [1093 - Two Sets II](1093)                | `Dp` |
 | [1145 - Increasing Subsequence](1145)     | `Fenwick Tree`, `Compression` |
+| [1140 - Projects](1140)                   | `Dp`, `Two pointers`, `Compression` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
