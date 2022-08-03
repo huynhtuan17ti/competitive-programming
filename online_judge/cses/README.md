@@ -125,3 +125,4 @@
 | [1132 - Tree Distances I](1132)           | `Graph`, `DFS`, `Tree`, `Dp` |
 | [1133 - Tree Distances II](1133)          | `Graph`, `DFS`, `Tree`, `Dp` |
 | [1687 - Company Queries I](1687)          | `Graph`, `DFS`, `Tree`, `Sparse Table` |
+| [1688 - Company Queries II](1688)         | `Graph`, `DFS`, `Tree`, `LCA` |
