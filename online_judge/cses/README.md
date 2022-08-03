@@ -52,6 +52,8 @@
 | [1744 - Rectangle Cutting](1744)          | `Dp` |
 | [1745 - Money Sums](1745)                 | `Dp` |
 | [1097 - Removal Game](1097)               | `Dp` |
+| [1093 - Two Sets II](1093)                | `Dp` |
+
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
