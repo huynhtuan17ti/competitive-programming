@@ -44,3 +44,4 @@
 | [fc131_dispoint](fc131_dispoint)                  | `Fenwick Tree` |
 | [fc131_appear](fc131_appear)                      | `String` |
 | [fc132_superseq](fc132_superseq)                  | `Sqrt`, `Mathematics` |
+| [fc132_exponential](fc132_exponential)            | `Mathematics` |
