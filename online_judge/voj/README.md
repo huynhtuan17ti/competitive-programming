@@ -43,3 +43,4 @@
 | [fc131_travel](fc131_travel)                      | `LCA`, `Fenwick Tree`, `DFS`, `Graph` |
 | [fc131_dispoint](fc131_dispoint)                  | `Fenwick Tree` |
 | [fc131_appear](fc131_appear)                      | `String` |
+| [fc132_superseq](fc132_superseq)                  | `Sqrt`, `Mathematics` |
