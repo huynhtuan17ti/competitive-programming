@@ -45,3 +45,4 @@
 | [fc131_appear](fc131_appear)                      | `String` |
 | [fc132_superseq](fc132_superseq)                  | `Sqrt`, `Mathematics` |
 | [fc132_exponential](fc132_exponential)            | `Mathematics` |
+| [fc132_water](fc132_water)                        | `Stack`, `Mathematics` |
