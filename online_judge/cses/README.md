@@ -130,3 +130,4 @@
 | [1687 - Company Queries I](1687)          | `Graph`, `DFS`, `Tree`, `Sparse Table` |
 | [1688 - Company Queries II](1688)         | `Graph`, `DFS`, `Tree`, `LCA` |
 | [1135 - Distance Queries](1135)           | `Graph`, `DFS`, `Tree`, `LCA` |
+| [1136 - Counting Paths](1136)             | `Graph`, `DFS`, `Tree`, `LCA`, `Prefix Sum` |
