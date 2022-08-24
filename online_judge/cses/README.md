@@ -131,3 +131,4 @@
 | [1688 - Company Queries II](1688)         | `Graph`, `DFS`, `Tree`, `LCA` |
 | [1135 - Distance Queries](1135)           | `Graph`, `DFS`, `Tree`, `LCA` |
 | [1136 - Counting Paths](1136)             | `Graph`, `DFS`, `Tree`, `LCA`, `Prefix Sum` |
+| [1137 - Subtree Queries](1137)            | `Graph`, `DFS`, `Tree`, `Fenwick Tree` |
