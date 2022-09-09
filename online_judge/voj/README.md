@@ -47,3 +47,4 @@
 | [fc132_exponential](fc132_exponential)            | `Mathematics` |
 | [fc132_water](fc132_water)                        | `Stack`, `Mathematics` |
 | [fc132_yuuka (TLE)](fc132_yuuka)                  | `Recursive` |
+| [fc127_tanchan](fc127_tanchan)                    | `Convex hull trick`, `Prefix sum` |
