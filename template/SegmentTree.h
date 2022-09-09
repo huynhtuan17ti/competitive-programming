@@ -7,12 +7,7 @@ private:
             val = 0;
         }
     };
-public:
-    vector <node> IT;
-    SegmentTree(int n){
-        IT.resize(4*n+5);
-    }
-    
+private:
     void update(int id, int l, int r, int u, T val){
         if(u < l || r < u)
             return;
@@ -35,5 +30,19 @@ public:
         T L = get(2*id, l, mid, u, v);
         T R = get(2*id+1, mid+1, r, u, v);
         return min(L, R);
+    }
+public:
+    int nVertex;
+    vector <node> IT;
+public:
+    SegmentTree(int n){
+        IT.resize(4*n+5);
+        nVertex = n;
+    }
+    void update(int u, T val){
+        update(1, 1, nVertex, u, val);
+    }
+    T get(int u, int v){
+        return get(1, 1, nVertex, u, v);
     }
 };

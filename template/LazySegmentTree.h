@@ -26,23 +26,7 @@ private:
             val = lazy = 0;
         }
     };
-public:
-    vector <node> IT;
-    LazySegmentTree(int n){
-        IT.resize(4*n+5);
-    }
-
-    void build(int id, int l, int r){
-        if(l == r){
-            IT[id].val = sum[l];
-            return;
-        }
-        int mid = (l+r) >> 1;
-        build(2*id, l, mid);
-        build(2*id+1, mid+1, r);
-        IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
-    }
-
+private:
     void push(int id, T val){
         IT[id].val += val;
         IT[id].lazy += val;
@@ -57,6 +41,17 @@ public:
         push(2*id+1, k);
 
         IT[id].lazy = 0;
+    }
+
+    void build(int id, int l, int r){
+        if(l == r){
+            IT[id].val = sum[l];
+            return;
+        }
+        int mid = (l+r) >> 1;
+        build(2*id, l, mid);
+        build(2*id+1, mid+1, r);
+        IT[id].val = max(IT[2*id].val, IT[2*id+1].val);
     }
 
     void update(int id, int l, int r, int u, int v, T val){
@@ -85,5 +80,25 @@ public:
         T L = get(2*id, l, mid, u, v);
         T R = get(2*id+1, mid+1, r, u, v);
         return max(L, R);
+    }
+
+public:
+    int nVertex;
+    vector <node> IT;
+public:
+    LazySegmentTree(int n): nVertex(n){
+        IT.resize(4*n+5);
+    }
+
+    void build(int l, int r){
+        build(1, nVertex);
+    }
+
+    void update(int u, int v, T val){
+        update(1, 1, nVertex, u, v, val);
+    }
+
+    T get(int u, int v){
+        return get(1, 1, nVertex, u, v);
     }
 };
