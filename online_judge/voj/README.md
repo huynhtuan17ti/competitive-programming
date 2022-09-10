@@ -48,3 +48,4 @@
 | [fc132_water](fc132_water)                        | `Stack`, `Mathematics` |
 | [fc132_yuuka (TLE)](fc132_yuuka)                  | `Recursive` |
 | [fc127_tanchan](fc127_tanchan)                    | `Convex hull trick`, `Prefix sum` |
+| [fc076_path](fc076_path)                          | `Dp` |
