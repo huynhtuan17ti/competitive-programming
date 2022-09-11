@@ -49,3 +49,4 @@
 | [fc132_yuuka (TLE)](fc132_yuuka)                  | `Recursive` |
 | [fc127_tanchan](fc127_tanchan)                    | `Convex hull trick`, `Prefix sum` |
 | [fc076_path](fc076_path)                          | `Dp` |
+| [fc076_seq14](fc076_seq14)                        | `Dp`, `Greedy` |
