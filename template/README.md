@@ -2,6 +2,7 @@
 
 | Template | Verification | Code |
 | ----------- | ----------- |------------ |
+| [ConvexHullTrick](ConvexHullTrick.h) | None | None |
 | [FenwickTree](FenwickTree.h) | [INCVN](https://oj.vnoi.info/problem/incvn) | [incvn.cpp](../online_judge/voj/INCVN/sol.cpp) |
 | [SparseTable](SparseTable.h) | [RMQSQ](https://www.spoj.com/problems/RMQSQ/) | [rmqsq.cpp](../online_judge/spoj/RMQSQ/sol.cpp) |
 | [LazySegmentTree](LazySegmentTree.h) | [2166](https://cses.fi/problemset/task/2166/) | [2166.cpp](../online_judge/cses/2166/sol.cpp) |
