@@ -52,3 +52,4 @@
 | [fc076_seq14](fc076_seq14)                        | `Dp`, `Greedy` |
 | [fc042_convex (WA)](fc042_convex)                 | `Math`, `Geometry` |
 | [fc041_duathu](fc041_duathu)                      | `Dp` |
+| [fc039_cactus](fc039_cactus)                      | `Graph`, `Cycle`, `DFS` |
