@@ -50,3 +50,5 @@
 | [fc127_tanchan](fc127_tanchan)                    | `Convex hull trick`, `Prefix sum` |
 | [fc076_path](fc076_path)                          | `Dp` |
 | [fc076_seq14](fc076_seq14)                        | `Dp`, `Greedy` |
+| [fc042_convex (WA)](fc042_convex)                 | `Math`, `Geometry` |
+| [fc041_duathu](fc041_duathu)                      | `Dp` |
