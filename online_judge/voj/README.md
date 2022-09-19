@@ -53,3 +53,4 @@
 | [fc042_convex (WA)](fc042_convex)                 | `Math`, `Geometry` |
 | [fc041_duathu](fc041_duathu)                      | `Dp` |
 | [fc039_cactus](fc039_cactus)                      | `Graph`, `Cycle`, `DFS` |
+| [fc051_dfs](fc051_dfs)                            | `Dp` |
