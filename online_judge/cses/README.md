@@ -133,3 +133,8 @@
 | [1136 - Counting Paths](1136)             | `Graph`, `DFS`, `Tree`, `LCA`, `Prefix Sum` |
 | [1137 - Subtree Queries](1137)            | `Graph`, `DFS`, `Tree`, `Fenwick Tree` |
 | [1138 - Path Queries](1138)               | `Graph`, `DFS`, `Tree`, `Fenwick Tree` |
+
+### Mathematics
+| Problem                                   | Tag |
+| -----------                               | ----------- |
+| [2209 - Counting Necklaces](2209)         | `Combinatorics`, `Inclusive-Exclusive` |
