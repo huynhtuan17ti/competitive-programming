@@ -54,3 +54,4 @@
 | [fc041_duathu](fc041_duathu)                      | `Dp` |
 | [fc039_cactus](fc039_cactus)                      | `Graph`, `Cycle`, `DFS` |
 | [fc051_dfs](fc051_dfs)                            | `Dp` |
+| [fc057_subseq](fc057_subseq)                      | `Sparse Table`, `Segment Tree`, `Two pointers`, `Offine` |
