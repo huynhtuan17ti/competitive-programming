@@ -56,3 +56,4 @@
 | [fc051_dfs](fc051_dfs)                            | `Dp` |
 | [fc057_subseq](fc057_subseq)                      | `Sparse Table`, `Segment Tree`, `Two pointers`, `Offine` |
 | [fc126_atravel](fc126_atravel)                    | `Fenwick Tree`, `Dp` |
+| [fc90_coprime](fc090_coprime)                     | `Mo on tree`, `LCA`, `DFS`, `Graph`, `Inclusion-Exclusion` |
