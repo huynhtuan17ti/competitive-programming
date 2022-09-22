@@ -6,7 +6,7 @@ int factor[MAXN + 5];
 
 vector <int> primes;
 
-void build_seive(){
+void build_sieve(){
     for(int i = 2; i <= MAXN; i++)
         factor[i] = i;
     for(int i = 4; i <= MAXN; i+=2)
