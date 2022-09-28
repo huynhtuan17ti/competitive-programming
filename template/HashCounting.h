@@ -1,6 +1,6 @@
 /*
     Given 2 sets of integers
-    Check if 2 the frequency of same number in 2 sets is equal.
+    Check if the frequency of same number in 2 sets is equal.
     Ex:
         [1, 2, 3] = [3, 1, 2]
         [1, 2, 3] != [3, 2, 2]
