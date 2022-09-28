@@ -4,24 +4,24 @@ using namespace std;
 
 const int dim = 10;
 
-struct matrix{
+struct Matrix{
     vector <vector<ll>> a;
-    matrix(){
+    Matrix(){
         a.resize(dim);
         for(int i = 1; i < dim; i++)
             a[i].resize(dim, 0);
     }
 };
 
-matrix Identity(){
-    matrix A;
+Matrix Identity(){
+    Matrix A;
     for(int i = 1; i < dim; i++)
         A.a[i][i] = 1;
     return A;
 }
 
-matrix operator* (const matrix &A, const matrix &B){
-    matrix mul;
+Matrix operator* (const Matrix &A, const Matrix &B){
+    Matrix mul;
     for(int k = 1; k < dim; k++)
         for(int i = 1; i < dim; i++)
             for(int j = 1; j < dim; j++)
@@ -29,12 +29,12 @@ matrix operator* (const matrix &A, const matrix &B){
     return mul;
 }
 
-matrix fastPow(matrix A, ll b){
+Matrix fastPow(Matrix A, ll b){
     if(b == 0)
         return Identity();
     if(b == 1)
         return A;
-    matrix t = fastPow(A, b/2);
+    Matrix t = fastPow(A, b/2);
     t = t*t;
     if(b%2 == 1)
         t = t*A;

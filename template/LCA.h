@@ -1,14 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-template <typename T>
+template<typename T>
 class LCA{
     public:
-    vector <int> h;
-    vector <T> dist;
-    vector <vector <int>> R;
+    vector<int> h;
+    vector<T> dist;
+    vector<vector <int>> R;
 
-    void initialize(int n){
+    LCA(int n){
         h.resize(n+1);
         dist.resize(n+1);
         R.resize(n+1);
@@ -31,7 +31,7 @@ class LCA{
             }
     }
 
-    int lca(int u, int v){
+    int get(int u, int v){
         if(h[u] < h[v])
             swap(u, v);
         
@@ -51,7 +51,7 @@ class LCA{
     }
 
     // get distance between (u, v)
-    ll get(int u, int v){
+    ll calc(int u, int v){
         int p = lca(u, v);
         return dist[u] + dist[v] - dist[p]*2;
     }

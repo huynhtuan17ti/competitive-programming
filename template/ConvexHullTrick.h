@@ -5,13 +5,13 @@
 
 const long double esp = 1e-7;
 
-template <typename T>
-struct Line {
+template<typename T>
+struct Line{
     T a, b;
     int id;
     Line(T a = 0, T b = 0, T id = 0) : a(a), b(b), id(id) {}
 
-    bool operator < (const Line& l) const {
+    bool operator<(const Line& l) const {
         if (a != l.a) return a < l.a;
         return b > l.b;
     }

@@ -1,14 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-template <typename T, typename F = function <T(const T&, const T&)>>
+template<typename T, typename F = function <T(const T&, const T&)>>
 class SparseTable{
     F func;
     int n;
-    vector <vector <T>> ans;
+    vector <vector<T>> ans;
 public:
-    SparseTable(const vector <T>& a, const F& f) : func(f){
-        this->n = (int)a.size();
+    SparseTable(const vector<T>& a, const F& f) : func(f), n((int)a.size()){
         int sz = trunc(log2(n)) + 1;
         ans.resize(n);
         for(int i = 0; i < n; i++){

@@ -18,6 +18,7 @@
 | [MaximumFlow](MaxFlow.h) | [1694](https://cses.fi/problemset/task/1694/) | [1694.cpp](../online_judege/cses/1694/sol.cpp) |
 | [StronglyConnectedComponent](SCC.h) | None | None |
 | [EulerPath](EulerPath.h) | None | None |
+| [HashCounting](HashCounting.h) | None | None |
 
 
 ## Code checking

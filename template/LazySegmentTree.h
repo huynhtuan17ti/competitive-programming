@@ -17,7 +17,7 @@ const int MAXN = 2e5 + 5;
 const ll inf = 1e15;
 ll sum[MAXN];
 
-template <typename T>
+template<typename T>
 class LazySegmentTree{
 private:
     struct node{

@@ -3,12 +3,12 @@ using namespace std;
 typedef long long ll;
 const int MAXN = 100005;
 
-vector <int> G[MAXN];
+vector<int> G[MAXN];
 int w[MAXN];
 int low[MAXN], num[MAXN], SCC[MAXN];
 ll wSCC[MAXN];
 int cntTime = 0, cntSCC = 0;
-stack <int> st;
+stack<int> st;
 
 void DFS(int u){
     num[u] = low[u] = ++cntTime;

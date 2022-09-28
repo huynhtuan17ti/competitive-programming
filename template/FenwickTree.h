@@ -5,17 +5,16 @@ using namespace std;
 template <typename T>
 class FenwickTree{
 private:
-    vector <T> fenw;
+    vector <T> bit;
     int n;
 public:
-    FenwickTree(int _n){
-        this->n = _n;
+    FenwickTree(int _n): n(_n){
         fenw.resize(n+1);
     }
 
     void update(int id, T val) {
         while (id <= n) {
-            fenw[id] += val;
+            bit[id] += val;
             id += id&(-id);
         }
     }
@@ -23,7 +22,7 @@ public:
     T get(int id){
         T ans{};
         while(id >= 1){
-            ans += fenw[id];
+            ans += bit[id];
             id -= id&(-id); 
         }
         return ans;
