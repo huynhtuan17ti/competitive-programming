@@ -19,6 +19,7 @@
 | [StronglyConnectedComponent](SCC.h) | None | None |
 | [EulerPath](EulerPath.h) | None | None |
 | [HashCounting](HashCounting.h) | None | None |
+| [BridgeAndCriticalVertex](BridgeAndCriticalVertex.h) | None | None |
 
 
 ## Code checking
