@@ -133,6 +133,7 @@
 | [1136 - Counting Paths](1136)             | `Graph`, `DFS`, `Tree`, `LCA`, `Prefix Sum` |
 | [1137 - Subtree Queries](1137)            | `Graph`, `DFS`, `Tree`, `Fenwick Tree` |
 | [1138 - Path Queries](1138)               | `Graph`, `DFS`, `Tree`, `Fenwick Tree` |
+| [2134 - Path Queries II](2134)            | `Graph`, `DFS`, `HLD`, `Segment Tree`, `LCA` |
 
 ### Mathematics
 | Problem                                   | Tag |
