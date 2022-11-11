@@ -135,6 +135,7 @@
 | [1138 - Path Queries](1138)               | `Graph`, `DFS`, `Tree`, `Fenwick Tree` |
 | [2134 - Path Queries II](2134)            | `Graph`, `DFS`, `HLD`, `Segment Tree`, `LCA` |
 | [2080 - Fixed-Length Paths I](2080)       | `Graph`, `DFS`, `Centroid Decomposition` |
+| [2081 - Fixed-Length Paths II](2081)      | `Graph`, `DFS`, `Centroid Decomposition`, `Fenwick Tree` |
 
 ### Mathematics
 | Problem                                   | Tag |
