@@ -146,3 +146,4 @@
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1087 - Shortest Subsequence](1087)       | `Greedy` |
+| [1146 - Counting Bits](1146)              | `Bits`, `Mathematics` |
