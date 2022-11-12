@@ -141,3 +141,8 @@
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [2209 - Counting Necklaces](2209)         | `Combinatorics`, `Inclusive-Exclusive` |
+
+### Additional Problems
+| Problem                                   | Tag |
+| -----------                               | ----------- |
+| [1087 - Shortest Subsequence](1087)       | `Greedy` |
