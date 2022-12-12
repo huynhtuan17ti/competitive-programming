@@ -142,6 +142,8 @@
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [2209 - Counting Necklaces](2209)         | `Combinatorics`, `Inclusive-Exclusive` |
+| [1095 - Exponentiation](1095)				| `Mathematics` |
+| [1712 - Exponentiation II](1712)			| `Mathematics`, `Phi-Euler`, `Little Fermat` |
 
 ### Additional Problems
 | Problem                                   | Tag |
