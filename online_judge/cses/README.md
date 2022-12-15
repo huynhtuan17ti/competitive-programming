@@ -144,7 +144,9 @@
 | [2209 - Counting Necklaces](2209)         | `Combinatorics`, `Inclusive-Exclusive` |
 | [1095 - Exponentiation](1095)				| `Mathematics` |
 | [1712 - Exponentiation II](1712)			| `Mathematics`, `Phi-Euler`, `Little Fermat` |
-| [1713 - Counting Divisors](1713)			| `Mathematics`, `Sieve` |
+| [1713 - Counting Divisors](1713)			| `Mathematics`, `Sieve`, `Divisor` |
+| [1081 - Common Divisors](1081)			| `Divisor`, `GCD` |
+| [1082 - Sum of Divisors](1082)			| `Divisor`, `Harmonic Lemma` |
 
 ### Additional Problems
 | Problem                                   | Tag |
