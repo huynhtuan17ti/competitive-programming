@@ -147,6 +147,7 @@
 | [1713 - Counting Divisors](1713)			| `Mathematics`, `Sieve`, `Divisor` |
 | [1081 - Common Divisors](1081)			| `Divisor`, `GCD` |
 | [1082 - Sum of Divisors](1082)			| `Divisor`, `Harmonic Lemma` |
+| [2182 - Divisor Analysis](2182)			| `Divisor`, `Mathematics`, `Combinatorics` |
 
 ### Additional Problems
 | Problem                                   | Tag |
