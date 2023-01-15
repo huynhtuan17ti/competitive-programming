@@ -148,6 +148,7 @@
 | [1081 - Common Divisors](1081)			| `Divisor`, `GCD` |
 | [1082 - Sum of Divisors](1082)			| `Divisor`, `Harmonic Lemma` |
 | [2182 - Divisor Analysis](2182)			| `Divisor`, `Mathematics`, `Combinatorics` |
+| [2185 - Prime Multiples](2185)			| `Inclusive-Exclusive`, `Divisor` |
 
 ### Additional Problems
 | Problem                                   | Tag |
