@@ -149,6 +149,7 @@
 | [1082 - Sum of Divisors](1082)			| `Divisor`, `Harmonic Lemma` |
 | [2182 - Divisor Analysis](2182)			| `Divisor`, `Mathematics`, `Combinatorics` |
 | [2185 - Prime Multiples](2185)			| `Inclusive-Exclusive`, `Divisor` |
+| [2417 - Counting Coprime Pairs](2417)		| `Inclusive-Exclusive`, `Mobius function` |
 
 ### Additional Problems
 | Problem                                   | Tag |
