@@ -153,6 +153,7 @@
 | [1079 - Binomial Coefficients](1079)		| `Litte Fermat` |
 | [1715 - Creating Strings II](1715)		| `Combinatorics`, `Little Fermat` |
 | [1716 - Distributing Apples](1716)		| `Combinatorics`, `Little Fermat` |
+| [1717 - Christmas Party](1717)			| `Combinatorics`, `Derangement` | 
 
 ### Additional Problems
 | Problem                                   | Tag |
