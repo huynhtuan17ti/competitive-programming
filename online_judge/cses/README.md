@@ -143,13 +143,14 @@
 | -----------                               | ----------- |
 | [2209 - Counting Necklaces](2209)         | `Combinatorics`, `Inclusive-Exclusive` |
 | [1095 - Exponentiation](1095)				| `Mathematics` |
-| [1712 - Exponentiation II](1712)			| `Mathematics`, `Phi-Euler`, `Little Fermat` |
-| [1713 - Counting Divisors](1713)			| `Mathematics`, `Sieve`, `Divisor` |
+| [1712 - Exponentiation II](1712)			| `Phi-Euler`, `Little Fermat` |
+| [1713 - Counting Divisors](1713)			| `Sieve`, `Divisor` |
 | [1081 - Common Divisors](1081)			| `Divisor`, `GCD` |
 | [1082 - Sum of Divisors](1082)			| `Divisor`, `Harmonic Lemma` |
 | [2182 - Divisor Analysis](2182)			| `Divisor`, `Mathematics`, `Combinatorics` |
 | [2185 - Prime Multiples](2185)			| `Inclusive-Exclusive`, `Divisor` |
 | [2417 - Counting Coprime Pairs](2417)		| `Inclusive-Exclusive`, `Mobius function` |
+| [1079 - Binomial Coefficients](1079)		| `Litte Fermat` |
 
 ### Additional Problems
 | Problem                                   | Tag |
