@@ -152,6 +152,7 @@
 | [2417 - Counting Coprime Pairs](2417)		| `Inclusive-Exclusive`, `Mobius function` |
 | [1079 - Binomial Coefficients](1079)		| `Litte Fermat` |
 | [1715 - Creating Strings II](1715)		| `Combinatorics`, `Little Fermat` |
+| [1716 - Distributing Apples](1716)		| `Combinatorics`, `Little Fermat` |
 
 ### Additional Problems
 | Problem                                   | Tag |
