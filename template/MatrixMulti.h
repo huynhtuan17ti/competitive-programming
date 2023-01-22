@@ -2,41 +2,40 @@
 typedef long long ll;
 using namespace std;
 
-const int dim = 10;
-
+template<typename T>
 struct Matrix{
-    vector <vector<ll>> a;
-    Matrix(){
-        a.resize(dim);
-        for(int i = 1; i < dim; i++)
-            a[i].resize(dim, 0);
-    }
+	static int dim;
+    vector<vector<T>> data;
+    
+	Matrix(bool identity = false){
+		data.resize(dim);
+		for(int i = 0; i < dim; ++i)
+		    data[i].resize(dim, 0);
+			if(identity)
+				for(int i = 0; i < dim; ++i) data[i][i] = 1;
+	 }
+
+	Matrix operator * (const Matrix<T> &other) {
+		Matrix<T> res;
+		for(int k = 0; k < dim; ++k)
+			for(int i = 0; i < dim; ++i)
+		    		for(int j = 0; j < dim; ++j) {
+		        		res.data[i][j] += data[i][k] * other.data[k][j] % MOD;
+					res.data[i][j] %= MOD;
+				}
+	    	return res;
+	}
+
+	// fast calculating A^b
+	static Matrix fastPow(Matrix<T> &A, ll b) {
+		if(b == 0) return Matrix(true);
+		if(b == 1) return A;
+		Matrix t = fastPow(A, b>>1);
+		t = t*t;
+		if(b&1) t = t*A;
+		return t;
+	}
 };
 
-Matrix Identity(){
-    Matrix A;
-    for(int i = 1; i < dim; i++)
-        A.a[i][i] = 1;
-    return A;
-}
-
-Matrix operator* (const Matrix &A, const Matrix &B){
-    Matrix mul;
-    for(int k = 1; k < dim; k++)
-        for(int i = 1; i < dim; i++)
-            for(int j = 1; j < dim; j++)
-                mul.a[i][j] += A.a[i][k]*B.a[k][j];
-    return mul;
-}
-
-Matrix fastPow(Matrix A, ll b){
-    if(b == 0)
-        return Identity();
-    if(b == 1)
-        return A;
-    Matrix t = fastPow(A, b/2);
-    t = t*t;
-    if(b%2 == 1)
-        t = t*A;
-    return t;
-}
+template<typename T>
+int Matrix<T>::dim = 2;
