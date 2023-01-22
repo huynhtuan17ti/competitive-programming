@@ -156,6 +156,7 @@
 | [1717 - Christmas Party](1717)			| `Combinatorics`, `Derangement` | 
 | [2064 - Bracket Sequences I](2064)		| `Combinatorics`, `Catalan numbers`, `Little Fermat` |
 | [2187 - Bracket Sequences II](2187)		| `Combinatorics`, `Catalan numbers`, `Little Fermat` |
+| [1722 - Fibonacci Numbers](1722)			| `Matrix` |
 
 ### Additional Problems
 | Problem                                   | Tag |
