@@ -154,6 +154,7 @@
 | [1715 - Creating Strings II](1715)		| `Combinatorics`, `Little Fermat` |
 | [1716 - Distributing Apples](1716)		| `Combinatorics`, `Little Fermat` |
 | [1717 - Christmas Party](1717)			| `Combinatorics`, `Derangement` | 
+| [2064 - Bracket Sequences I](2064)		| `Combinatorics`, `Catalan numbers`, `Little Fermat` |
 
 ### Additional Problems
 | Problem                                   | Tag |
