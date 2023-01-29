@@ -158,6 +158,11 @@
 | [2187 - Bracket Sequences II](2187)		| `Combinatorics`, `Catalan numbers`, `Little Fermat` |
 | [1722 - Fibonacci Numbers](1722)			| `Matrix` |
 
+### String Algorithms
+| Problem									| Tag |
+| ----------								| ----------- |
+| [1731 - Word Combinations](1731)			| `Trie`, `String`, `Dp` |
+
 ### Additional Problems
 | Problem                                   | Tag |
 | -----------                               | ----------- |
