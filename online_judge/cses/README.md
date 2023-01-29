@@ -162,6 +162,7 @@
 | Problem									| Tag |
 | ----------								| ----------- |
 | [1731 - Word Combinations](1731)			| `Trie`, `String`, `Dp` |
+| [1753 - String Matching](1753)			| `Z function`, `String` |
 
 ### Additional Problems
 | Problem                                   | Tag |
