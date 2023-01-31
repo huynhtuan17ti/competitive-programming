@@ -56,6 +56,7 @@
 | [1145 - Increasing Subsequence](1145)     | `Fenwick Tree`, `Compression` |
 | [1140 - Projects](1140)                   | `Dp`, `Two pointers`, `Compression` |
 | [1653 - Elevator Rides](1653)				| `Dp`, `bitmask` |
+| [2181 - Counting Tilings](2181)			| `Dp`, `bitmask`, `broken profile` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
