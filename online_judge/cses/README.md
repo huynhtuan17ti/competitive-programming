@@ -36,7 +36,7 @@
 | [1632 - Movie Festival II](1632)          | `Greedy` |
 | [1644 - Maximum Subarray Sum II](1644)    | `Deque` |
 
-### Dynamic Programming
+### Dynamic Programming (Done)
 | Problem                                   | Tag |
 | -----------                               | ----------- |
 | [1633 - Dice Combinations](1633)          | `Dp` |
@@ -57,6 +57,7 @@
 | [1140 - Projects](1140)                   | `Dp`, `Two pointers`, `Compression` |
 | [1653 - Elevator Rides](1653)				| `Dp`, `bitmask` |
 | [2181 - Counting Tilings](2181)			| `Dp`, `bitmask`, `broken profile` |
+| [2220 - Counting Numbers](2220)			| `Dp`, `digits` |
 
 ### Range Queries (Done)
 | Problem                                   | Tag |
