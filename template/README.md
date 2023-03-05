@@ -22,6 +22,7 @@
 | [BridgeAndCriticalVertex](BridgeAndCriticalVertex.h) | None | None |
 | [Trie](Trie.h) | [1731](https://cses.fi/problemset/task/1731) | [1731.cpp](../online_judge/cses/1731/sol.cpp) |
 | [Zfunction](Zfunction.h) | [1753](https://cses.fi/problemset/task/1753) | [1753.cpp](../online_judge/cses/1753/sol.cpp) |
+| [LiChaoTree](LiChaoTree.h) | None | None |
 
 
 ## Code checking
