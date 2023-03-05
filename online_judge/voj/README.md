@@ -58,3 +58,5 @@
 | [fc126_atravel](fc126_atravel)                    | `Fenwick Tree`, `Dp` |
 | [fc90_coprime](fc090_coprime)                     | `Mo on tree`, `LCA`, `DFS`, `Graph`, `Inclusion-Exclusion` |
 | [qmax2](qmax2)                                    | `Segment Tree` |
+| [fc086_rrace](fc086_rrace)                        | `Li Chao Tree` |
+| [riderhp](riderhp)                                | `Li Chao Tree` |
