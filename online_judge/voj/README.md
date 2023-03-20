@@ -60,3 +60,4 @@
 | [qmax2](qmax2)                                    | `Segment Tree` |
 | [fc086_rrace](fc086_rrace)                        | `Li Chao Tree` |
 | [riderhp](riderhp)                                | `Li Chao Tree` |
+| [fc051_anagram](fc051_anagram)                    | `Hashing`, `Counting` |
