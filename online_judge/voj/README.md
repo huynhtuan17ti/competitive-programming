@@ -61,3 +61,4 @@
 | [fc086_rrace](fc086_rrace)                        | `Li Chao Tree` |
 | [riderhp](riderhp)                                | `Li Chao Tree` |
 | [fc051_anagram](fc051_anagram)                    | `Hashing`, `Counting` |
+| [fct017_grcolor](fct017_grcolor)                  | `DFS`, `Storing state` |
