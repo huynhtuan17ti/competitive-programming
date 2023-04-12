@@ -62,3 +62,4 @@
 | [riderhp](riderhp)                                | `Li Chao Tree` |
 | [fc051_anagram](fc051_anagram)                    | `Hashing`, `Counting` |
 | [fct017_grcolor](fct017_grcolor)                  | `DFS`, `Storing state` |
+| [voslis](voslis)                                  | `Dp`, `LCS` |
