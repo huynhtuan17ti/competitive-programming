@@ -64,3 +64,4 @@
 | [fct017_grcolor](fct017_grcolor)                  | `DFS`, `Storing state` |
 | [voslis](voslis)                                  | `Dp`, `LCS` |
 | [fct016_mwpath](fct016_mwpath)                    | `Graph`, `Dijkstra` |
+| [fc054_doikhang](fc054_doikhang)                  | `Dp` |
