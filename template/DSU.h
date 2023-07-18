@@ -15,7 +15,11 @@ public:
         return u;
     }
 
-    void Union(int u, int v){
+    bool Union(int u, int v){
+        u = findSet(u);
+        v = findSet(v);
+        if(u == v) return false;
+
         int x = parent[u] + parent[v];
         if(parent[u] > parent[v]){
             parent[v] = x;
@@ -24,5 +28,6 @@ public:
             parent[u] = x;
             parent[v] = u;
         }
+        return true;
     }
 };
