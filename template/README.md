@@ -24,6 +24,7 @@
 | [Zfunction](Zfunction.h) | [1753](https://cses.fi/problemset/task/1753) | [1753.cpp](../online_judge/cses/1753/sol.cpp) |
 | [LiChaoTree](LiChaoTree.h) | None | None |
 | [BellmanFord](BellmanFord.h) | None | None |
+| [Floyd](Floyd.h) | None | None |
 
 
 ## Code checking
