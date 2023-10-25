@@ -11,53 +11,58 @@ using namespace std;
 
 using HashNode = tuple<ll, ll, ll>;
 
-HashNode operator+(const HashNode &A, const HashNode &B){
-    const auto& [a1, b1, c1] = A;
-    const auto& [a2, b2, c2] = B;
-    return {a1 + a2, b1 + b2, c1 + c2};
+HashNode operator+(const HashNode &A, const HashNode &B) {
+  const auto &[a1, b1, c1] = A;
+  const auto &[a2, b2, c2] = B;
+  return {a1 + a2, b1 + b2, c1 + c2};
 };
 
-HashNode& operator+=(HashNode &A, const HashNode &B){
-    auto& [a1, b1, c1] = A;
-    const auto& [a2, b2, c2] = B;
-    a1 += a2; b1 += b2; c1 += c2;
-    return A;
+HashNode &operator+=(HashNode &A, const HashNode &B) {
+  auto &[a1, b1, c1] = A;
+  const auto &[a2, b2, c2] = B;
+  a1 += a2;
+  b1 += b2;
+  c1 += c2;
+  return A;
 };
 
-HashNode operator-(const HashNode &A, const HashNode &B){
-    const auto& [a1, b1, c1] = A;
-    const auto& [a2, b2, c2] = B;
-    return {a1 - a2, b1 - b2, c1 - c2};
+HashNode operator-(const HashNode &A, const HashNode &B) {
+  const auto &[a1, b1, c1] = A;
+  const auto &[a2, b2, c2] = B;
+  return {a1 - a2, b1 - b2, c1 - c2};
 };
 
-HashNode& operator-=(HashNode &A, const HashNode &B){
-    auto& [a1, b1, c1] = A;
-    const auto& [a2, b2, c2] = B;
-    a1 -= a2; b1 -= b2; c1 -= c2;
-    return A;
+HashNode &operator-=(HashNode &A, const HashNode &B) {
+  auto &[a1, b1, c1] = A;
+  const auto &[a2, b2, c2] = B;
+  a1 -= a2;
+  b1 -= b2;
+  c1 -= c2;
+  return A;
 };
 
-void solve(){
-    // random generator
-    random_device device;
-    mt19937 rnd(device());
+void solve() {
+  // random generator
+  random_device device;
+  mt19937 rnd(device());
 
-    int n; cin >> n;
-    map<int, HashNode> hsh;
-    vector<int> a(n+1);
+  int n;
+  cin >> n;
+  map<int, HashNode> hsh;
+  vector<int> a(n + 1);
 
-    auto index = [&](int u){
-        if(!hsh.count(u)){
-            ll x = rnd(), y = rnd(), z = rnd();
-            hsh[u] = {x, y, z};
-        }
-        return hsh[u];
-    };
-    
-    for(int i = 1; i <= n; i++) {
-        cin >> a[i];
-        // HashNode(a[i]) = index(a[i])
+  auto index = [&](int u) {
+    if (!hsh.count(u)) {
+      ll x = rnd(), y = rnd(), z = rnd();
+      hsh[u] = {x, y, z};
     }
+    return hsh[u];
+  };
+
+  for (int i = 1; i <= n; i++) {
+    cin >> a[i];
+    // HashNode(a[i]) = index(a[i])
+  }
 }
 
 /*
